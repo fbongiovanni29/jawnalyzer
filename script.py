@@ -1,30 +1,43 @@
 import json
-import jsonpickle
 from collections import OrderedDict
 
+# loads json and sets it to var data
 with open('all-companies.json') as data_file:
         data = json.load(data_file)
 
-#print len(data)
+# amount of companies in Job Jawn
+amount_companies = len(data)
 
-counter = []
+# declare for loop
+skills = []
 
+# Appends each technology to the skills array
 for companies in data:
     for i in companies["technologies"]:
-        counter.append(i)
+        skills.append(i)
 
-my_json = ({i:counter.count(i) for i in counter})
-my_json = OrderedDict(sorted(my_json.items(), key=lambda x: x[1], reverse=True))
-my_json = json.dumps(my_json, indent=4)
-#print my_json
+# Organizes JSON as Key, Val
+# Key === Skill
+# Val === Times Listed
+skill_json = ({i: skills.count(i) for i in skills})
+# Orders by Value descending
+skill_json = sorted(skill_json.items(), key=lambda x: x[1], reverse=True)
+skill_json = OrderedDict(skill_json)
+# Converts back to JSON
+skill_json = json.dumps(skill_json, indent=4)
 
 title_counter = 0
+titles = []
 
+# appends each title to titles array
 for positions in data:
-    for position in positions["positions"]:
-        print position["title"]
+    for i in positions["positions"]:
+        titles.append(i["title"])
         title_counter = title_counter + 1
 
-print 
-
-#print title_counter
+title_json = ({i: titles.count(i) for i in titles})
+# Orders by Value descending
+title_json = sorted(title_json.items(), key=lambda x: x[1], reverse=True)
+title_json = OrderedDict(title_json)
+# Converts back to JSON
+title_json = json.dumps(title_json, indent=4)
