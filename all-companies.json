@@ -9,7 +9,7 @@
     "technologies": [
       "Wordpress",
       "Drupal",
-      "Expression Engine",
+      "ExpressEngine",
       "JQuery",
       "TweenMax",
       "velocity.js"
@@ -59,7 +59,7 @@
     "url": "http://160over90.com/careers/",
     "webSiteUrl": "http://www.160over90.com/",
     "technologies": [
-      "php",
+      "PHP",
       "MySQL",
       "Drupal",
       "JQuery"
@@ -484,7 +484,7 @@
     "type": [
       "consultancy"
     ],
-    "url": "http://www.alura.com/about.php",
+    "url": "http://www.alura.com/about.PHP",
     "webSiteUrl": "http://www.alura.com/",
     "technologies": [],
     "locations": {
@@ -504,7 +504,7 @@
         "employmentType": "full-time",
         "title": "Network Administrator",
         "alternateName": "IT, Networking",
-        "url": "http://www.alura.com/job/network-administrator.php",
+        "url": "http://www.alura.com/job.network-administrator.PHP",
         "jobLocation": "plymouth",
         "remote": false,
         "datePosted": "2015-03-06"
@@ -541,8 +541,8 @@
     "type": [
       "product"
     ],
-    "url": "http://info.apprennet.com/jobs/",
-    "webSiteUrl": "http://info.apprennet.com/",
+    "url": "http://info.appre.net.com/jobs/",
+    "webSiteUrl": "http://info.appre.net.com/",
     "technologies": [],
     "locations": {
       "wyndmoor": {
@@ -561,7 +561,7 @@
         "employmentType": "full-time",
         "title": "Director of Corporate Sales",
         "alternateName": "Business Development",
-        "url": "http://info.apprennet.com/jobs/#op-80867-director-of-corporate-sales",
+        "url": "http://info.appre.net.com/jobs/#op-80867-director-of-corporate-sales",
         "jobLocation": "wyndmoor",
         "remote": true,
         "datePosted": "2016-03-13"
@@ -572,7 +572,7 @@
         "employmentType": "full-time",
         "title": "Account Representative, Corporate",
         "alternateName": "Business Development",
-        "url": "http://info.apprennet.com/jobs/#op-71800-account-representative-corporate",
+        "url": "http://info.appre.net.com/jobs/#op-71800-account-representative-corporate",
         "jobLocation": "wyndmoor",
         "remote": true,
         "datePosted": "2016-03-13"
@@ -583,7 +583,7 @@
         "employmentType": "full-time",
         "title": "Account Representative, Higher Education",
         "alternateName": "Business Development",
-        "url": "http://info.apprennet.com/jobs/#op-71799-account-representative-higher-education",
+        "url": "http://info.appre.net.com/jobs/#op-71799-account-representative-higher-education",
         "jobLocation": "wyndmoor",
         "remote": true,
         "datePosted": "2016-03-13"
@@ -709,9 +709,9 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "Umbraco ASP.NET Developer",
+        "title": "Umbraco ASP.net Developer",
         "alternateName": "Developer, Full Stack",
-        "url": "http://www.arcintermedia.com/company/careers/asp-net-developer/",
+        "url": "http://www.arcintermedia.com/company/careers/asp.net-developer/",
         "jobLocation": "king of prussia",
         "remote": true,
         "datePosted": "2016-03-13"
@@ -926,7 +926,7 @@
     "url": "http://www.aweber.jobs/",
     "webSiteUrl": "http://www.aweber.com/",
     "technologies": [
-      "php",
+      "PHP",
       "Python",
       "Perl",
       "MongoDB",
@@ -1053,8 +1053,8 @@
     "url": "http://jobs.azavea.com/",
     "webSiteUrl": "http://www.azavea.com/",
     "technologies": [
-      "Amazon Web Services",
-      "AngularJS",
+      "AWS",
+      "Angular.JS",
       "Bootstrap",
       "C#",
       "CSS",
@@ -1063,7 +1063,7 @@
       "Go",
       "Google Compute Engine",
       "HTML",
-      "Javascript",
+      "JavaScript",
       "jQuery",
       "Linux",
       "Python",
@@ -1574,7 +1574,7 @@
         "employmentType": "full-time",
         "title": "Software Engineer Java",
         "alternateName": "Developer, Backend",
-        "url": "http://jobs.dell.com/pennsylvania/engineering/jobid5241663-software-engineer-java-jobs",
+        "url": "http://jobs.dell.com/pennsylvania/engineering/jobid5241663-software-engineer-Java-jobs",
         "jobLocation": "berwyn",
         "remote": false,
         "datePosted": "2016-03-13"
@@ -2266,7 +2266,7 @@
         "employmentType": "full-time",
         "title": "Senior Java/Spring Engineer",
         "alternateName": "Developer, Backend",
-        "url": "http://chariotsolutions.com/who-we-are/careers/job-posting-senior-javaspring-engineers/",
+        "url": "http://chariotsolutions.com/who-we-are/careers/job-posting-senior-Javaspring-engineers/",
         "jobLocation": "fort washington",
         "remote": false,
         "datePosted": "2016-03-13"
@@ -2878,7 +2878,7 @@
         "employmentType": "full-time",
         "title": "Technical Consultant - Development (Java/MAK/Mashups/Smart Office SDK)",
         "alternateName": "Developer, Backend",
-        "url": "http://www.conigent.com/contact/#op-44147-infor-m3-technical-consultant-development-javamakmashupssmart-office-sdk",
+        "url": "http://www.conigent.com/contact/#op-44147-infor-m3-technical-consultant-development-Javamakmashupssmart-office-sdk",
         "jobLocation": "cherryhill",
         "remote": false,
         "datePosted": "2016-03-13"
@@ -3201,7 +3201,7 @@
     "url": "http://www.d4creative.com/careers",
     "webSiteUrl": "http://www.d4creative.com/",
     "technologies": [
-      "php"
+      "PHP"
     ],
     "locations": {
       "philadelphia": {
@@ -3339,7 +3339,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "C# / .NET Software Developer",
+        "title": "C# / .net Software Developer",
         "alternateName": "Developer, Backend",
         "url": "http://www.deacom.com/ViewPage/178/deacom-inc-software-developer",
         "jobLocation": "philadelphia",
@@ -3368,7 +3368,7 @@
     "url": "http://www.delphicdigital.com/about/careers/open-positions",
     "webSiteUrl": "http://www.delphicdigital.com/",
     "technologies": [
-      ".net",
+      ".NET",
       "Sitecore"
     ],
     "locations": {
@@ -3481,8 +3481,8 @@
     "webSiteUrl": "https://drakontas.com/",
     "technologies": [
       "Python",
-      "Postgres",
-      "Linux (CentOS/RedHat)",
+      "PostgreSQL",
+      "Linux(CentOS/RedHat)",
       "Bash scripting",
       "AWS",
       "KVM",
@@ -3764,7 +3764,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "PHP/.NET Developer",
+        "title": "PHP/.net Developer",
         "alternateName": "Developer, Full Stack",
         "url": "http://ecityinteractive.com/us/careers/",
         "jobLocation": "philadelphia",
@@ -4160,7 +4160,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": ".NET Developer",
+        "title": ".net Developer",
         "alternateName": "Developer, Full Stack",
         "url": "http://entech.com/Careers/Req/10000",
         "jobLocation": "malvern",
@@ -4498,7 +4498,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "Junior Linux Administrator",
+        "title": "Junior LinuxAdministrator",
         "alternateName": "IT, Networking",
         "url": "http://www.evolveip.net/about/careers/junior-linux-administrator",
         "jobLocation": "wayne",
@@ -4511,7 +4511,7 @@
         "employmentType": "full-time",
         "title": "Technical Support Specialist",
         "alternateName": "IT, Networking",
-        "url": "http://www.evolveip.net/about/careers/network-security-operations-center-nsoc-technician",
+        "url": "http://www.evolveip.net/about/careers.network-security-operations-center-nsoc-technician",
         "jobLocation": "wayne",
         "remote": false,
         "datePosted": "2016-04-30"
@@ -4707,7 +4707,7 @@
         "employmentType": "full-time",
         "title": "Sr. Java developer",
         "alternateName": "Developer, Backend",
-        "url": "https://financialsystemsjobs.sungard.com/job/philadelphia/sr-java-developer/1682/208235",
+        "url": "https://financialsystemsjobs.sungard.com/job/philadelphia/sr-Java-developer/1682/208235",
         "jobLocation": "philadelphia",
         "remote": false,
         "datePosted": "2016-01-27"
@@ -4716,9 +4716,9 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "Ruby on Rails Web Developer",
+        "title": "Ruby on Ruby on Rails Web Developer",
         "alternateName": "Developer, Backend",
-        "url": "https://financialsystemsjobs.sungard.com/job/philadelphia/ruby-on-rails-web-developer/1682/1295844",
+        "url": "https://financialsystemsjobs.sungard.com/job/philadelphia/Ruby-on-rails-web-developer/1682/1295844",
         "jobLocation": "philadelphia",
         "remote": false,
         "datePosted": "2016-01-07"
@@ -4738,9 +4738,9 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "Front end Javascript Engineer",
+        "title": "Front end JavaScript Engineer",
         "alternateName": "Developer, Frontend",
-        "url": "https://financialsystemsjobs.sungard.com/job/new-york/front-end-javascript-engineer/1682/1955175",
+        "url": "https://financialsystemsjobs.sungard.com/job/new-york/front-end-Javascript-engineer/1682/1955175",
         "jobLocation": "philadelphia",
         "remote": false,
         "datePosted": "2016-04-26"
@@ -4751,7 +4751,7 @@
         "employmentType": "full-time",
         "title": "Java Developer",
         "alternateName": "Developer, Backend",
-        "url": "https://financialsystemsjobs.sungard.com/job/wayne/java-developer/1682/1955184",
+        "url": "https://financialsystemsjobs.sungard.com/job/wayne/Java-developer/1682/1955184",
         "jobLocation": "philadelphia",
         "remote": false,
         "datePosted": "2016-04-26"
@@ -5269,10 +5269,10 @@
     "technologies": [
       "Python",
       "Django",
-      "Amazon Web Services",
-      "Javascript",
+      "AWS",
+      "JavaScript",
       "Perl",
-      "docker"
+      "Docker"
     ],
     "locations": {
       "philadelphia": {
@@ -5813,7 +5813,7 @@
         "employmentType": "full-time",
         "title": "PHP Developer – Magento",
         "alternateName": "Developer, Backend",
-        "url": "https://www.inverseparadox.com/jobs/php-developer-magento/",
+        "url": "https://www.inverseparadox.com/jobs/PHP-developer-magento/",
         "jobLocation": "penndel",
         "remote": false,
         "datePosted": "2016-03-13"
@@ -6239,16 +6239,16 @@
     "url": "http://www.leadid.com/about-us/join-our-team/open-positions",
     "webSiteUrl": "http://www.leadid.com/",
     "technologies": [
-      "Javascript",
+      "JavaScript",
       "PHP",
       "Python",
       "Scala",
       "C",
-      "AngularJS",
+      "Angular.JS",
       "CakePHP",
       "Laravel",
       "Spray",
-      "Amazon Web Services",
+      "AWS",
       "Kafka",
       "Akka"
     ],
@@ -6410,12 +6410,13 @@
     "url": "https://www.lem.ma/home/?page_id=70",
     "webSiteUrl": "https://www.lem.ma/",
     "technologies": [
-      "Javascript",
+      "JavaScript",
       "HTML",
       "Node.js",
-      "C/C++",
-      "HTML5",
-      "CSS3",
+      "C",
+      "C++",
+      "HTML",
+      "CSS",
       "Angular.JS"
     ],
     "locations": {
@@ -6483,7 +6484,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "Linux Technical Support",
+        "title": "LinuxTechnical Support",
         "alternateName": "IT, Networking",
         "url": "https://www.linode.com/careers",
         "jobLocation": "haddonfield",
@@ -6505,7 +6506,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "Linux Systems Engineer",
+        "title": "LinuxSystems Engineer",
         "alternateName": "IT, Networking",
         "url": "https://www.linode.com/careers",
         "jobLocation": "haddonfield",
@@ -6538,7 +6539,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "Linux Solutions Consultant",
+        "title": "LinuxSolutions Consultant",
         "alternateName": "IT, Networking",
         "url": "https://www.linode.com/careers",
         "jobLocation": "haddonfield",
@@ -6600,7 +6601,7 @@
     "type": [
       "consultancy"
     ],
-    "url": "http://www.maassmedia.com/about-our-careers.php",
+    "url": "http://www.maassmedia.com/about-our-careers.PHP",
     "webSiteUrl": "http://www.maassmedia.com/",
     "technologies": [],
     "locations": {
@@ -6623,7 +6624,7 @@
         "employmentType": "full-time",
         "title": "Analytics Solutions Engineer",
         "alternateName": "Data Analyst",
-        "url": "http://www.maassmedia.com/about-our-careers.php?id=3",
+        "url": "http://www.maassmedia.com/about-our-careers.PHP?id=3",
         "jobLocation": "philadelphia",
         "remote": false,
         "datePosted": "2016-04-05"
@@ -6634,7 +6635,7 @@
         "employmentType": "full-time",
         "title": "Consultant - Data Science/Reporting",
         "alternateName": "Data Analyst",
-        "url": "http://www.maassmedia.com/about-our-careers.php?id=4",
+        "url": "http://www.maassmedia.com/about-our-careers.PHP?id=4",
         "jobLocation": "philadelphia",
         "remote": false,
         "datePosted": "2016-04-05"
@@ -6645,7 +6646,7 @@
         "employmentType": "full-time",
         "title": "Marketing Specialist",
         "alternateName": "Marketing",
-        "url": "http://www.maassmedia.com/about-our-careers.php?id=6",
+        "url": "http://www.maassmedia.com/about-our-careers.PHP?id=6",
         "jobLocation": "philadelphia",
         "remote": false,
         "datePosted": "2016-04-05"
@@ -6656,7 +6657,7 @@
         "employmentType": "full-time",
         "title": "Senior Digital Analyst - Social Media",
         "alternateName": "Data Analyst",
-        "url": "http://www.maassmedia.com/about-our-careers.php?id=7",
+        "url": "http://www.maassmedia.com/about-our-careers.PHP?id=7",
         "jobLocation": "philadelphia",
         "remote": false,
         "datePosted": "2016-04-05"
@@ -6667,7 +6668,7 @@
         "employmentType": "full-time",
         "title": "Measurement & Reporting Analyst",
         "alternateName": "Data Analyst",
-        "url": "http://www.maassmedia.com/about-our-careers.php?id=8",
+        "url": "http://www.maassmedia.com/about-our-careers.PHP?id=8",
         "jobLocation": "philadelphia",
         "remote": false,
         "datePosted": "2016-04-05"
@@ -6678,7 +6679,7 @@
         "employmentType": "full-time",
         "title": "SENIOR DIGITAL ANALYST",
         "alternateName": "Data Analyst",
-        "url": "http://www.maassmedia.com/about-our-careers.php?id=9",
+        "url": "http://www.maassmedia.com/about-our-careers.PHP?id=9",
         "jobLocation": "philadelphia",
         "remote": false,
         "datePosted": "2016-04-30"
@@ -7243,12 +7244,12 @@
     "updated": "2016-04-30"
   },
   {
-    "company": "Monetate, Inc.",
+    "company": "M.netate, Inc.",
     "type": [
       "product"
     ],
-    "url": "http://www.monetate.com/about/careers/#open-positions",
-    "webSiteUrl": "http://www.monetate.com/",
+    "url": "http://www.m.netate.com/about/careers/#open-positions",
+    "webSiteUrl": "http://www.m.netate.com/",
     "technologies": [],
     "locations": {
       "conshohocken": {
@@ -7270,7 +7271,7 @@
         "employmentType": "full-time",
         "title": "Director of Analytics",
         "alternateName": "Data Scientist",
-        "url": "http://www.monetate.com/about/careers/#open-positions",
+        "url": "http://www.m.netate.com/about/careers/#open-positions",
         "jobLocation": "conshohocken",
         "remote": false,
         "datePosted": "2016-04-05"
@@ -7281,7 +7282,7 @@
         "employmentType": "full-time",
         "title": "Senior Strategy Consultant",
         "alternateName": "Project Manager",
-        "url": "http://www.monetate.com/about/careers/#open-positions",
+        "url": "http://www.m.netate.com/about/careers/#open-positions",
         "jobLocation": "conshohocken",
         "remote": false,
         "datePosted": "2016-04-05"
@@ -7292,7 +7293,7 @@
         "employmentType": "full-time",
         "title": "DevOps Engineer",
         "alternateName": "DevOps",
-        "url": "http://www.monetate.com/about/careers/#open-positions",
+        "url": "http://www.m.netate.com/about/careers/#open-positions",
         "jobLocation": "conshohocken",
         "remote": false,
         "datePosted": "2016-04-30"
@@ -7301,9 +7302,9 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "Javascript Engineer",
+        "title": "JavaScript Engineer",
         "alternateName": "Developer, Frontend",
-        "url": "http://www.monetate.com/about/careers/#open-positions",
+        "url": "http://www.m.netate.com/about/careers/#open-positions",
         "jobLocation": "conshohocken",
         "remote": false,
         "datePosted": "2016-04-05"
@@ -7314,7 +7315,7 @@
         "employmentType": "full-time",
         "title": "Product Manager",
         "alternateName": "Project Manager",
-        "url": "http://www.monetate.com/about/careers/#open-positions",
+        "url": "http://www.m.netate.com/about/careers/#open-positions",
         "jobLocation": "conshohocken",
         "remote": false,
         "datePosted": "2016-04-05"
@@ -7325,7 +7326,7 @@
         "employmentType": "full-time",
         "title": "Marketing Automation (Marketo) Specialist",
         "alternateName": "Marketing",
-        "url": "http://www.monetate.com/about/careers/#open-positions",
+        "url": "http://www.m.netate.com/about/careers/#open-positions",
         "jobLocation": "conshohocken",
         "remote": false,
         "datePosted": "2016-04-05"
@@ -7336,7 +7337,7 @@
         "employmentType": "full-time",
         "title": "Sales Director",
         "alternateName": "Business Development",
-        "url": "http://www.monetate.com/about/careers/#open-positions",
+        "url": "http://www.m.netate.com/about/careers/#open-positions",
         "jobLocation": "conshohocken",
         "remote": false,
         "datePosted": "2016-04-30"
@@ -7347,7 +7348,7 @@
         "employmentType": "full-time",
         "title": "Solutions Consultant",
         "alternateName": "Business Development",
-        "url": "http://www.monetate.com/about/careers/#open-positions",
+        "url": "http://www.m.netate.com/about/careers/#open-positions",
         "jobLocation": "conshohocken",
         "remote": false,
         "datePosted": "2016-04-30"
@@ -7672,8 +7673,8 @@
     "type": [
       "agency"
     ],
-    "url": "http://thinknetplus.com/contact/#netplus-jobs",
-    "webSiteUrl": "http://thinknetplus.com/",
+    "url": "http://thin.netplus.com/contact/.netplus-jobs",
+    "webSiteUrl": "http://thin.netplus.com/",
     "technologies": [],
     "locations": {
       "philadelphia": {
@@ -7695,7 +7696,7 @@
         "employmentType": "full-time",
         "title": "Interactive Designer",
         "alternateName": "Developer, Frontend",
-        "url": "http://thinknetplus.com/contact/interactive-designer-2/",
+        "url": "http://thin.netplus.com/contact/interactive-designer-2/",
         "jobLocation": "philadelphia",
         "remote": false,
         "datePosted": "2015-12-18"
@@ -7706,7 +7707,7 @@
         "employmentType": "full-time",
         "title": "Social Media Community Manager",
         "alternateName": "Marketing",
-        "url": "http://thinknetplus.com/contact/social-media-community-manager/",
+        "url": "http://thin.netplus.com/contact/social-media-community-manager/",
         "jobLocation": "philadelphia",
         "remote": false,
         "datePosted": "2015-12-22"
@@ -7717,7 +7718,7 @@
         "employmentType": "full-time",
         "title": "Search and Social Advertising Manager",
         "alternateName": "Marketing",
-        "url": "http://thinknetplus.com/contact/search-and-social-advertising-manager/",
+        "url": "http://thin.netplus.com/contact/search-and-social-advertising-manager/",
         "jobLocation": "philadelphia",
         "remote": false,
         "datePosted": "2015-12-24"
@@ -7728,7 +7729,7 @@
         "employmentType": "full-time",
         "title": "Art Director",
         "alternateName": "Developer, Frontend",
-        "url": "http://thinknetplus.com/contact/art-director/",
+        "url": "http://thin.netplus.com/contact/art-director/",
         "jobLocation": "philadelphia",
         "remote": false,
         "datePosted": "2016-03-22"
@@ -7739,7 +7740,7 @@
         "employmentType": "full-time",
         "title": "Web Developer Full-Stack",
         "alternateName": "Developer, Full Stack",
-        "url": "http://thinknetplus.com/contact/web-developer/",
+        "url": "http://thin.netplus.com/contact/web-developer/",
         "jobLocation": "philadelphia",
         "remote": false,
         "datePosted": "2015-12-02"
@@ -7750,7 +7751,7 @@
         "employmentType": "full-time",
         "title": "Interactive Developer",
         "alternateName": "Developer, Frontend",
-        "url": "http://thinknetplus.com/contact/interactive-developer/",
+        "url": "http://thin.netplus.com/contact/interactive-developer/",
         "jobLocation": "philadelphia",
         "remote": false,
         "datePosted": "2015-12-16"
@@ -7761,7 +7762,7 @@
         "employmentType": "full-time",
         "title": "Digital Project Manager",
         "alternateName": "Project Manager",
-        "url": "http://thinknetplus.com/contact/digital-project-manager/",
+        "url": "http://thin.netplus.com/contact/digital-project-manager/",
         "jobLocation": "philadelphia",
         "remote": false,
         "datePosted": "2015-12-10"
@@ -7772,7 +7773,7 @@
         "employmentType": "intern",
         "title": "Internships available",
         "alternateName": "Intern",
-        "url": "http://thinknetplus.com/contact/internships-at-netplus/",
+        "url": "http://thin.netplus.com/contact/internships-at.netplus/",
         "jobLocation": "philadelphia",
         "remote": false,
         "datePosted": "2016-04-30"
@@ -7937,18 +7938,20 @@
       "Heroku",
       "Selenium",
       "Jenkins",
-      "HTML / CSS / JS",
+      "HTML",
+      "CSS",
+      "JavaScript",
       "DNS",
       "VoIP",
       "SonicWall FireWall",
-      "NodeJS",
+      "Node.js",
       "PHP",
-      "Git",
+      "git",
       "New Relic",
       "Pingdom",
       "HTML",
       "CSS",
-      "Javascript",
+      "JavaScript",
       "Wordpress",
       "Drupal",
       "ExpressionEngine",
@@ -7957,9 +7960,9 @@
       "Adobe Photoshop",
       "Express",
       "Sails.js",
-      "AngularJS",
+      "Angular.JS",
       "MongoDB",
-      "PostreSQL",
+      "PostgreSQL",
       "Redis",
       "Gulp",
       "Grunt"
@@ -7989,9 +7992,9 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "Full Stack Javascript Developer",
+        "title": "Full Stack JavaScript Developer",
         "alternateName": "",
-        "url": "http://o3world.com/careers/full-stack-javascript-developer/",
+        "url": "http://o3world.com/careers/full-stack-Javascript-developer/",
         "jobLocation": "philadelphia",
         "remote": false,
         "datePosted": "2016-03-28"
@@ -8798,7 +8801,7 @@
         "employmentType": "full-time",
         "title": "Mid-level Java Engineer",
         "alternateName": "Developer, Backend",
-        "url": "http://plumanalytics.com/about/careers/mid-level-java-engineer/",
+        "url": "http://plumanalytics.com/about/careers/mid-level-Java-engineer/",
         "jobLocation": "dresher",
         "remote": false,
         "datePosted": "2016-04-28"
@@ -9152,9 +9155,9 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": ".NET Senior Software Engineer",
+        "title": ".net Senior Software Engineer",
         "alternateName": "Developer, Full Stack",
-        "url": "http://rdacorp.com/en/Careers/Current%20Openings/dotNET%20Senior%20Software%20Engineer",
+        "url": "http://rdacorp.com/en/Careers/Current%20Openings/do.net%20Senior%20Software%20Engineer",
         "jobLocation": "philadelphia",
         "remote": false,
         "datePosted": "2016-04-28"
@@ -9262,7 +9265,7 @@
       "Elasticsearch",
       "React",
       "Ruby",
-      "Rails",
+      "Ruby on Rails",
       "Python",
       "TensorFlow",
       "Test Driven Development",
@@ -9471,8 +9474,8 @@
     "type": [
       "product"
     ],
-    "url": "http://www.relaynetwork.com/careers/",
-    "webSiteUrl": "http://www.relaynetwork.com/",
+    "url": "http://www.rela.network.com/careers/",
+    "webSiteUrl": "http://www.rela.network.com/",
     "technologies": [],
     "locations": {
       "radnor": {
@@ -9543,7 +9546,7 @@
     "url": "http://www.revzilla.com/careers",
     "webSiteUrl": "http://www.revzilla.com/",
     "technologies": [
-      "Rails",
+      "Ruby on Rails",
       "Elixir"
     ],
     "locations": {
@@ -9706,25 +9709,25 @@
     "url": "https://rjmetrics.com/jobs/",
     "webSiteUrl": "https://rjmetrics.com/",
     "technologies": [
-      "angularjs",
-      "apache",
-      "chef",
-      "clojure",
-      "coffeescript",
+      "Angular.JS",
+      "Apache",
+      "Chef",
+      "Clojure",
+      "CoffeeScript",
       "git",
       "hadoop",
-      "java",
-      "javascript",
-      "jenkins",
-      "mongodb",
-      "mysql",
-      "node.js",
-      "php",
-      "python",
-      "r",
-      "redis",
-      "ruby",
-      "sql",
+      "Java",
+      "JavaScript",
+      "Jenkins",
+      "MongoDB",
+      "MySQL",
+      "Node.JS",
+      "PHP",
+      "Python",
+      "R",
+      "Redis",
+      "Ruby",
+      "SQl",
       "virtualbox"
     ],
     "locations": {
@@ -9887,7 +9890,7 @@
     "type": [
       "consultancy"
     ],
-    "url": "http://www.saturninfotech.com/jobs.php",
+    "url": "http://www.saturninfotech.com/jobs.PHP",
     "webSiteUrl": "http://www.saturninfotech.com/",
     "technologies": [],
     "locations": {
@@ -9910,7 +9913,7 @@
         "employmentType": "full-time",
         "title": "Junior C/C++ or MATLAB Developers",
         "alternateName": "Developer, Backend",
-        "url": "http://www.saturninfotech.com/job_details.php?jobid=3",
+        "url": "http://www.saturninfotech.com/job_details.PHP?jobid=3",
         "jobLocation": "north wales",
         "remote": false,
         "datePosted": "2016-04-26"
@@ -10666,7 +10669,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "Linux Engineer",
+        "title": "LinuxEngineer",
         "alternateName": "IT, Networking",
         "url": "https://careers.sig.com/job/SUSQA004Y239/Linux-Engineer",
         "jobLocation": "bala cynwyd",
@@ -10695,11 +10698,11 @@
     "url": "https://angel.co/sustrana-2/jobs",
     "webSiteUrl": "http://www.sustrana.com/",
     "technologies": [
-      "ASP.NET 4.5",
+      "ASP.net",
       "C#",
       "Microsoft Azure DocumentDB",
-      "HTML5",
-      "CSS3",
+      "HTML",
+      "CSS",
       "JavaScript",
       "jQuery",
       "Bootstrap",
@@ -10802,7 +10805,7 @@
         "employmentType": "full-time",
         "title": "Senior C#.Net Software Development Engineer",
         "alternateName": "Developer, Full Stack",
-        "url": "https://www.swiftcapital.com/Careers#op-116912-senior-cnet-software-development-engineer",
+        "url": "https://www.swiftcapital.com/Careers#op-116912-senior-.net-software-development-engineer",
         "jobLocation": "conshohocken",
         "remote": false,
         "datePosted": "2016-04-26"
@@ -10907,7 +10910,7 @@
     "webSiteUrl": "http://www.syapse.com/",
     "technologies": [
       "Python",
-      "Javascript",
+      "JavaScript",
       "Django"
     ],
     "locations": {
@@ -11042,7 +11045,7 @@
     "webSiteUrl": "https://www.therapynotes.com/",
     "technologies": [
       "C#",
-      "ASP.NET",
+      "ASP.net",
       "JavaScript",
       "SQL",
       "CSS",
@@ -11090,7 +11093,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "Senior .NET Developer (C#)",
+        "title": "Senior .net Developer (C#)",
         "alternateName": "Developer, Full Stack",
         "url": "https://therapynotes.workable.com/jobs/145948",
         "jobLocation": "willow grove",
@@ -11302,7 +11305,7 @@
     "url": "http://ticketleap.theresumator.com/",
     "webSiteUrl": "http://ticketleap.com/",
     "technologies": [
-      "python"
+      "Python"
     ],
     "locations": {
       "philadelphia": {
@@ -11871,9 +11874,9 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "AngularJS Developer",
+        "title": "Angular.JS Developer",
         "alternateName": "Developer, Frontend",
-        "url": "https://career4.successfactors.com/career?career_ns=job_listing&company=URBN&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=41012&selected_lang=en_US&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&_s.crb=eCXs6tho7BisQh1zaQdbTikCGjw%3d",
+        "url": "https://career4.successfactors.com/career?career_ns=job_listing&company=URBN&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=41012&selected_lang=en_US&jobAlert",
         "jobLocation": "philadelphia",
         "remote": false,
         "datePosted": "2016-04-25"
@@ -12039,7 +12042,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "Ruby on Rails Lead Programmer",
+        "title": "Ruby on Ruby on Rails Lead Programmer",
         "alternateName": "Developer, Backend",
         "url": "http://www.velorastudios.com/jobs",
         "jobLocation": "philadelphia",
@@ -12159,11 +12162,11 @@
     "url": "https://careers.stackoverflow.com/company/vertmarkets-inc#jobs",
     "webSiteUrl": "http://www.vertmarkets.com/",
     "technologies": [
-      "mongodb",
-      "elasticsearch",
-      "angularjs",
-      "javascript",
-      "asp.net-mvc"
+      "MongoDB",
+      "Elasticsearch",
+      "Angular.JS",
+      "JavaScript",
+      "ASP.net"
     ],
     "locations": {
       "horsham": {
@@ -12256,7 +12259,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "Ruby On Rails Developer",
+        "title": "Ruby On Ruby on Rails Developer",
         "alternateName": "Developer, Backend",
         "url": "https://weblinc.workable.com/jobs/17597",
         "jobLocation": "philadelphia",
@@ -12356,7 +12359,7 @@
     "url": "http://www.wilsonlegalsol.com/careers.html",
     "webSiteUrl": "http://www.wilsonlegalsol.com/",
     "technologies": [
-      ".net"
+      ".NET"
     ],
     "locations": {
       "newtown square": {
@@ -12566,12 +12569,12 @@
     "webSiteUrl": "https://www.yellowdig.com/",
     "technologies": [
       "PHP",
-      "Javascript",
-      "HTML5",
-      "CSS3",
+      "JavaScript",
+      "HTML",
+      "CSS",
       "iOS",
       "Android",
-      "Ruby on Rails",
+      "Ruby on Ruby on Rails",
       "Cordova"
     ],
     "locations": {
@@ -12644,7 +12647,7 @@
     "technologies": [
       "Drupal",
       "JavaScript",
-      "Jquery",
+      "jQuery",
       "Node.js",
       "PHP",
       "Python",
@@ -12784,7 +12787,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "Javascript UI Developer",
+        "title": "JavaScript UI Developer",
         "alternateName": "Developer, Frontend",
         "url": "https://zonoff.com/our-story/careers/",
         "jobLocation": "malvern",
@@ -12795,7 +12798,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "Linux Application Developer",
+        "title": "LinuxApplication Developer",
         "alternateName": "Developer, Full Stack",
         "url": "https://zonoff.com/our-story/careers/",
         "jobLocation": "malvern",
