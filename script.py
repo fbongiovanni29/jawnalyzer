@@ -25,6 +25,8 @@ skill_json = sorted(skill_json.items(), key=lambda x: x[1], reverse=True)
 skill_json = OrderedDict(skill_json)
 # Converts back to JSON
 skill_json = json.dumps(skill_json, indent=4)
+# uncomment to print json of skills
+# print skill_json
 
 title_counter = 0
 titles = []
@@ -41,3 +43,5 @@ title_json = sorted(title_json.items(), key=lambda x: x[1], reverse=True)
 title_json = OrderedDict(title_json)
 # Converts back to JSON
 title_json = json.dumps(title_json, indent=4)
+# uncomment to print json of titls
+# print title_json
