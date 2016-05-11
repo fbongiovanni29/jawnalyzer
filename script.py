@@ -8,40 +8,38 @@ with open('all-companies.json') as data_file:
 # amount of companies in Job Jawn
 amount_companies = len(data)
 
-# declare for loop
 skills = []
+types = []
+titles = []
+title_counter = 0
 
 # Appends each technology to the skills array
 for companies in data:
     for i in companies["technologies"]:
         skills.append(i)
 
-# Organizes JSON as Key, Val
-# Key === Skill
-# Val === Times Listed
-skill_json = ({i: skills.count(i) for i in skills})
-# Orders by Value descending
-skill_json = sorted(skill_json.items(), key=lambda x: x[1], reverse=True)
-skill_json = OrderedDict(skill_json)
-# Converts back to JSON
-skill_json = json.dumps(skill_json, indent=4)
-# uncomment to print json of skills
-# print skill_json
 
-title_counter = 0
-titles = []
+for companies in data:
+    for i in companies["type"]:
+        types.append(i)
 
-# appends each title to titles array
 for positions in data:
     for i in positions["positions"]:
         titles.append(i["title"])
         title_counter = title_counter + 1
 
-title_json = ({i: titles.count(i) for i in titles})
-# Orders by Value descending
-title_json = sorted(title_json.items(), key=lambda x: x[1], reverse=True)
-title_json = OrderedDict(title_json)
-# Converts back to JSON
-title_json = json.dumps(title_json, indent=4)
-# uncomment to print json of titls
-# print title_json
+# Organizes data into JSON
+def json_formatter(json_name):
+    # Organizes JSON as Key, Val
+    formatted = ({i: json_name.count(i) for i in json_name})
+    # Orders by Value descending
+    formatted = sorted(formatted.items(), key=lambda x: x[1], reverse=True)
+    formatted = OrderedDict(formatted)
+    # Converts back to JSON
+    formatted = json.dumps(formatted, indent=4)
+    print formatted
+    return
+
+json_formatter(skills)
+json_formatter(types)
+json_formatter(titles)
