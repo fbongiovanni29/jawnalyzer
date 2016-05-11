@@ -18,28 +18,16 @@ jobLocation = []
 title_counter = 0
 
 
-def json_loop(key, array):
+def json_loop(key, array, position):
     for companies in data:
         for i in companies[key]:
-            array.append(i)
-
-json_loop("technologies", technologies)
-json_loop("type", types)
-
-
-def postions_json_loop(key, array):
-    for positions in data:
-        for i in positions["positions"]:
-            array.append(i[key])
-
-postions_json_loop("jobLocation", jobLocation)
-postions_json_loop("title", titles)
-
-
-# Organizes data into JSON
-def json_formatter(json_name):
+            if position is None:
+                array.append(i)
+            else:
+                array.append(i[position])
+    # Organizes data into JSON
     # Organizes JSON as Key, Val
-    formatted = ({i: json_name.count(i) for i in json_name})
+    formatted = ({i: array.count(i) for i in array})
     # Orders by Value descending
     formatted = sorted(formatted.items(), key=lambda x: x[1], reverse=True)
     formatted = OrderedDict(formatted)
@@ -48,7 +36,7 @@ def json_formatter(json_name):
     print formatted
     return
 
-json_formatter(technologies)
-json_formatter(types)
-json_formatter(jobLocation)
-json_formatter(titles)
+json_loop("technologies", technologies, None)
+json_loop("type", types, None)
+json_loop("positions", jobLocation, "jobLocation")
+json_loop("positions", titles, "title")
