@@ -1,12 +1,17 @@
 import json
+
 from collections import OrderedDict
 
 # loads json and sets it to var data
 with open('all-companies.json') as data_file:
     data = json.load(data_file)
 
+
 # amount of companies in Job Jawn
-amount_companies = len(data)
+total = amount_companies = len(data)
+
+# prints amount of remote positions
+remote = json.dumps(data).count('"remote": true,')
 
 technologies = []
 types = []
@@ -40,5 +45,5 @@ def json_formatter(json_name):
     print formatted
     return
 
-json_formatter(technologies)
-json_formatter(types)
+# json_formatter(technologies)
+# json_formatter(types)
