@@ -36,14 +36,13 @@ def json_loop(key, array, position, my_json):
                 array.append(i)
             else:
                 array.append(i[position])
-    # Organizes data into JSON
-    # Organizes JSON as Key, Val
+    # Organizes into JSON as Key, Val
     formatted = ({i: array.count(i) for i in array})
     # Orders by Value descending
     formatted = sorted(formatted.items(), key=lambda x: x[1], reverse=True)
     formatted = OrderedDict(formatted)
     # Converts back to JSON
-    my_json = my_json.append(formatted)
+    json_int(key, formatted)
     return
 
 json_loop("technologies", technologies, None, my_json)
