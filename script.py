@@ -40,9 +40,9 @@ def json_loop(key, array, position, job_json):
 
 # loads json and sets it to var data
 for filename in glob.iglob('json/*'):
+    print "writing " + filename
     with open(filename) as data_file:
         data = json.load(data_file)
-
     # prints amount of remote positions
     remote = json.dumps(data).count('"remote": true,')
     # amount of companies in Job Jawn
@@ -58,3 +58,8 @@ for filename in glob.iglob('json/*'):
     with open("analyzed/" + filename[+5:], 'w') as outfile:
         json.dump(job_json, outfile, indent=4)
     job_json = []
+    technologies = []
+    types = []
+    titles = []
+    jobLocation = []
+    employmentType = []
