@@ -50,4 +50,5 @@ json_loop("type", types, None, my_json)
 json_loop("positions", jobLocation, "jobLocation", my_json)
 json_loop("positions", titles, "title", my_json)
 json_loop("positions", employmentType, "employmentType", my_json)
-print(json.dumps(my_json, indent=4))
+with open('data.json', 'w') as outfile:
+    json.dump(my_json, outfile, indent=4)
