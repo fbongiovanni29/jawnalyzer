@@ -57,3 +57,4 @@ for filename in glob.iglob('json/*'):
     json_int("companies", amount_companies)
     with open("analyzed/" + filename[+5:], 'w') as outfile:
         json.dump(job_json, outfile, indent=4)
+    job_json = []
