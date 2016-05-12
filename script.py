@@ -2,23 +2,16 @@ import json
 import glob
 from collections import OrderedDict
 
-technologies = []
-types = []
-titles = []
-jobLocation = []
-employmentType = []
-job_json = []
-
 
 # Assigns Key: Val and appends to array
-def json_int(key, val):
+def json_int(job_json, key, val):
     aDict = {}
     aDict[key] = val
     job_json.append(aDict)
 
 
 # Extracts necessary JSON data and formats properly
-def json_loop(key, array, position, job_json):
+def json_loop(data, key, array, position, job_json):
     # Loops through json
     for companies in data:
         for i in companies[key]:
@@ -35,11 +28,18 @@ def json_loop(key, array, position, job_json):
     # if nested inside of positions
     if key is "positions":
         key = position
-    json_int(key, formatted)
+    json_int(job_json, key, formatted)
     return
 
-# loads json and sets it to var data
-for filename in glob.iglob('json/*'):
+
+def load_job_json(filename):
+    job_json = []
+    technologies = []
+    types = []
+    titles = []
+    jobLocation = []
+    employmentType = []
+
     print "writing " + filename
     with open(filename) as data_file:
         data = json.load(data_file)
@@ -48,18 +48,17 @@ for filename in glob.iglob('json/*'):
     # amount of companies in Job Jawn
     amount_companies = len(data)
 
-    json_loop("technologies", technologies, None, job_json)
-    json_loop("type", types, None, job_json)
-    json_loop("positions", jobLocation, "jobLocation", job_json)
-    json_loop("positions", titles, "title", job_json)
-    json_loop("positions", employmentType, "employmentType", job_json)
-    json_int("remote", remote)
-    json_int("companies", amount_companies)
+    json_loop(data, "technologies", technologies, None, job_json)
+    json_loop(data, "type", types, None, job_json)
+    json_loop(data, "positions", jobLocation, "jobLocation", job_json)
+    json_loop(data, "positions", titles, "title", job_json)
+    json_loop(data, "positions", employmentType, "employmentType", job_json)
+    json_int(job_json, "remote", remote)
+    json_int(job_json, "companies", amount_companies)
     with open("analyzed/" + filename[+5:], 'w') as outfile:
         json.dump(job_json, outfile, indent=4)
-    job_json = []
-    technologies = []
-    types = []
-    titles = []
-    jobLocation = []
-    employmentType = []
+
+
+# loads json and sets it to var data
+for filename in glob.iglob('json/*'):
+    load_job_json(filename)
