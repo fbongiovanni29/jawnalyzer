@@ -5,22 +5,33 @@ from collections import OrderedDict
 with open('all-companies.json') as data_file:
     data = json.load(data_file)
 
-# amount of companies in Job Jawn
-amount_companies = len(data)
-
-# prints amount of remote positions
-remote = json.dumps(data).count('"remote": true,')
-
 technologies = []
 types = []
 titles = []
 jobLocation = []
-title_counter = 0
+employmentType = []
+my_json = []
+
+# prints amount of remote positions
+remote = json.dumps(data).count('"remote": true,')
+# amount of companies in Job Jawn
+amount_companies = len(data)
 
 
-def json_loop(key, array, position):
+def json_int(key, val):
+    aDict = {}
+    aDict[key] = val
+    my_json.append(aDict)
+
+json_int("remote", remote)
+json_int("companies", amount_companies)
+
+
+def json_loop(key, array, position, my_json):
+    # Loops through json
     for companies in data:
         for i in companies[key]:
+            # Checks nesting
             if position is None:
                 array.append(i)
             else:
@@ -32,11 +43,12 @@ def json_loop(key, array, position):
     formatted = sorted(formatted.items(), key=lambda x: x[1], reverse=True)
     formatted = OrderedDict(formatted)
     # Converts back to JSON
-    formatted = json.dumps(formatted, indent=4)
-    print formatted
+    my_json = my_json.append(formatted)
     return
 
-json_loop("technologies", technologies, None)
-json_loop("type", types, None)
-json_loop("positions", jobLocation, "jobLocation")
-json_loop("positions", titles, "title")
+json_loop("technologies", technologies, None, my_json)
+json_loop("type", types, None, my_json)
+json_loop("positions", jobLocation, "jobLocation", my_json)
+json_loop("positions", titles, "title", my_json)
+json_loop("positions", employmentType, "employmentType", my_json)
+print(json.dumps(my_json, indent=4))
