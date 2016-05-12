@@ -128,7 +128,7 @@
         }
     }, 
     {
-        "positions": {
+        "jobLocation": {
             "philadelphia": 441, 
             "conshohocken": 43, 
             "wayne": 25, 
@@ -171,7 +171,7 @@
         }
     }, 
     {
-        "positions": {
+        "title": {
             "Software Engineer": 16, 
             "Web Developer": 10, 
             "Senior Software Engineer": 10, 
@@ -780,7 +780,7 @@
         }
     }, 
     {
-        "positions": {
+        "employmentType": {
             "full-time": 679, 
             "intern": 41, 
             "contract": 8, 

@@ -42,6 +42,8 @@ def json_loop(key, array, position, my_json):
     formatted = sorted(formatted.items(), key=lambda x: x[1], reverse=True)
     formatted = OrderedDict(formatted)
     # Converts back to JSON
+    if key is "positions":
+        key = position
     json_int(key, formatted)
     return
 
