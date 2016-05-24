@@ -1,54 +1,40 @@
-[
-    {
-        "technologies": {
-            "Sitecore": 1, 
-            ".NET": 1
-        }
+{
+    "remote": 0, 
+    "title": {
+        "APPLICATION DEVELOPER": 1, 
+        "FRONT END DEVELOPER": 1, 
+        "SENIOR APPLICATION DEVELOPER": 1, 
+        "Software Quality Assurance (QA) Engineer": 1, 
+        "Senior Systems Engineer": 1, 
+        "Senior C#.Net Software Development Engineer": 1, 
+        "Marketing Operations Analyst": 1, 
+        "Internships available": 1, 
+        "SENIOR SITECORE DEVELOPER": 1, 
+        "Senior Marketing Coordinator": 1, 
+        "ACCOUNT EXECUTIVE": 1, 
+        "Data Scientist \u2013 Credit Risk Strategies": 1, 
+        "UX/UI Designer/Developer": 1, 
+        "DevOps Engineer": 1, 
+        "B2B Sales Representative": 1, 
+        "MID-LEVEL UX DESIGNER": 1, 
+        "Marketing Data Analyst": 1, 
+        "B2B Account Executive": 1
     }, 
-    {
-        "type": {
-            "agency": 1, 
-            "internal": 1
-        }
+    "employmentType": {
+        "full-time": 17, 
+        "intern": 1
     }, 
-    {
-        "jobLocation": {
-            "conshohocken": 11, 
-            "wilmington": 7
-        }
+    "companies": 2, 
+    "technologies": {
+        "Sitecore": 1, 
+        ".NET": 1
     }, 
-    {
-        "title": {
-            "APPLICATION DEVELOPER": 1, 
-            "FRONT END DEVELOPER": 1, 
-            "SENIOR APPLICATION DEVELOPER": 1, 
-            "Software Quality Assurance (QA) Engineer": 1, 
-            "Senior Systems Engineer": 1, 
-            "Senior C#.Net Software Development Engineer": 1, 
-            "Marketing Operations Analyst": 1, 
-            "Internships available": 1, 
-            "SENIOR SITECORE DEVELOPER": 1, 
-            "Senior Marketing Coordinator": 1, 
-            "ACCOUNT EXECUTIVE": 1, 
-            "Data Scientist \u2013 Credit Risk Strategies": 1, 
-            "UX/UI Designer/Developer": 1, 
-            "DevOps Engineer": 1, 
-            "B2B Sales Representative": 1, 
-            "MID-LEVEL UX DESIGNER": 1, 
-            "Marketing Data Analyst": 1, 
-            "B2B Account Executive": 1
-        }
+    "jobLocation": {
+        "conshohocken": 11, 
+        "wilmington": 7
     }, 
-    {
-        "employmentType": {
-            "full-time": 17, 
-            "intern": 1
-        }
-    }, 
-    {
-        "remote": 0
-    }, 
-    {
-        "companies": 2
+    "type": {
+        "agency": 1, 
+        "internal": 1
     }
-]
+}

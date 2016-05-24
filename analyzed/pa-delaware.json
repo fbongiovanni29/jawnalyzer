@@ -1,62 +1,48 @@
-[
-    {
-        "technologies": {
-            ".net": 1
-        }
+{
+    "remote": 1, 
+    "title": {
+        "Client Support Specialist": 1, 
+        "Business Analyst - Enterprise Product Management": 1, 
+        "Implementation Engineer": 1, 
+        "Data Warehouse/ETL Developer": 1, 
+        "Software Engineer - Infrastructure & Tools": 1, 
+        ".Net Developer": 1, 
+        "SSRS Report Developer": 1, 
+        "Art Director": 1, 
+        "Senior Digital Marketing Project Manager": 1, 
+        "SSAS Consultant": 1, 
+        "Product Owner": 1, 
+        "Senior Consultant": 1, 
+        "Sr. Manager of Brand Marketing": 1, 
+        "Software Engineer - Deployment": 1, 
+        "Product Manager": 1, 
+        "Software Engineer - API": 1, 
+        "Software Engineer - Application Developer": 1, 
+        "UI/UX Designer": 1, 
+        "Web Marketing Project Manager": 1, 
+        "Software Engineer - Front End Architecture": 1, 
+        "Software Engineering Manager": 1, 
+        "Data Services Support Specialist": 1, 
+        "Software Engineer - Aggregation Infrastructure": 1, 
+        "Systems Architect": 1, 
+        "Organic Search Manager": 1, 
+        "Agile Coach / Scrum Master": 1, 
+        "Lead Generation Manager": 1
     }, 
-    {
-        "type": {
-            "consultancy": 3, 
-            "internal": 1
-        }
+    "employmentType": {
+        "full-time": 27
     }, 
-    {
-        "jobLocation": {
-            "radnor": 19, 
-            "newtown square": 5, 
-            "wayne": 3
-        }
+    "companies": 4, 
+    "technologies": {
+        ".net": 1
     }, 
-    {
-        "title": {
-            "Client Support Specialist": 1, 
-            "Business Analyst - Enterprise Product Management": 1, 
-            "Implementation Engineer": 1, 
-            "Data Warehouse/ETL Developer": 1, 
-            "Software Engineer - Infrastructure & Tools": 1, 
-            ".Net Developer": 1, 
-            "SSRS Report Developer": 1, 
-            "Art Director": 1, 
-            "Senior Digital Marketing Project Manager": 1, 
-            "SSAS Consultant": 1, 
-            "Product Owner": 1, 
-            "Senior Consultant": 1, 
-            "Sr. Manager of Brand Marketing": 1, 
-            "Software Engineer - Deployment": 1, 
-            "Product Manager": 1, 
-            "Software Engineer - API": 1, 
-            "Software Engineer - Application Developer": 1, 
-            "UI/UX Designer": 1, 
-            "Web Marketing Project Manager": 1, 
-            "Software Engineer - Front End Architecture": 1, 
-            "Software Engineering Manager": 1, 
-            "Data Services Support Specialist": 1, 
-            "Software Engineer - Aggregation Infrastructure": 1, 
-            "Systems Architect": 1, 
-            "Organic Search Manager": 1, 
-            "Agile Coach / Scrum Master": 1, 
-            "Lead Generation Manager": 1
-        }
+    "jobLocation": {
+        "radnor": 19, 
+        "newtown square": 5, 
+        "wayne": 3
     }, 
-    {
-        "employmentType": {
-            "full-time": 27
-        }
-    }, 
-    {
-        "remote": 1
-    }, 
-    {
-        "companies": 4
+    "type": {
+        "consultancy": 3, 
+        "internal": 1
     }
-]
+}

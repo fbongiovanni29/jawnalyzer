@@ -1,5 +1,6 @@
 import json
 import glob
+import pdb
 from collections import OrderedDict
 
 
@@ -7,7 +8,7 @@ from collections import OrderedDict
 def json_int(job_json, key, val):
     aDict = {}
     aDict[key] = val
-    job_json.append(aDict)
+    job_json.update(aDict)
 
 
 # Extracts necessary JSON data and formats properly
@@ -31,9 +32,8 @@ def json_loop(data, key, array, position, job_json):
     json_int(job_json, key, formatted)
     return
 
-
 def load_job_json(filename):
-    job_json = []
+    job_json = {}
     technologies = []
     types = []
     titles = []

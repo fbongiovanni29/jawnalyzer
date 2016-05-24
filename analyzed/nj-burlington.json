@@ -1,33 +1,19 @@
-[
-    {
-        "technologies": {}
+{
+    "remote": 0, 
+    "title": {
+        "Systems Engineer, Senior": 1, 
+        "Systems Engineer, Staff": 1, 
+        "Systems Engineer, Senior Staff": 1
     }, 
-    {
-        "type": {
-            "consultancy": 1
-        }
+    "employmentType": {
+        "full-time": 3
     }, 
-    {
-        "jobLocation": {
-            "moorestown": 3
-        }
+    "companies": 1, 
+    "technologies": {}, 
+    "jobLocation": {
+        "moorestown": 3
     }, 
-    {
-        "title": {
-            "Systems Engineer, Senior": 1, 
-            "Systems Engineer, Staff": 1, 
-            "Systems Engineer, Senior Staff": 1
-        }
-    }, 
-    {
-        "employmentType": {
-            "full-time": 3
-        }
-    }, 
-    {
-        "remote": 0
-    }, 
-    {
-        "companies": 1
+    "type": {
+        "consultancy": 1
     }
-]
+}

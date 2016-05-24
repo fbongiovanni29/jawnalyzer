@@ -1,33 +1,19 @@
-[
-    {
-        "technologies": {}
+{
+    "remote": 0, 
+    "title": {
+        "Release/DevOps Engineer": 1, 
+        "Data Analyst": 1, 
+        "Software Engineer": 1
     }, 
-    {
-        "type": {
-            "product": 1
-        }
+    "employmentType": {
+        "full-time": 3
     }, 
-    {
-        "jobLocation": {
-            "philadelphia": 3
-        }
+    "companies": 1, 
+    "technologies": {}, 
+    "jobLocation": {
+        "philadelphia": 3
     }, 
-    {
-        "title": {
-            "Release/DevOps Engineer": 1, 
-            "Data Analyst": 1, 
-            "Software Engineer": 1
-        }
-    }, 
-    {
-        "employmentType": {
-            "full-time": 3
-        }
-    }, 
-    {
-        "remote": 0
-    }, 
-    {
-        "companies": 1
+    "type": {
+        "product": 1
     }
-]
+}

@@ -1,85 +1,71 @@
-[
-    {
-        "technologies": {
-            "Python": 2, 
-            "PostgreSQL": 1, 
-            "MongoDB": 1, 
-            "Django": 1, 
-            ".NET": 1, 
-            "Perl": 1, 
-            "php": 1
-        }
+{
+    "remote": 0, 
+    "title": {
+        "Copywriter Intern": 1, 
+        "Recruiter": 1, 
+        "PHP Developer \u2013 Magento": 1, 
+        "Junior Copywriter": 1, 
+        "Marketing Coordinator": 1, 
+        "Director of Education": 1, 
+        "User Experience Design Lead (UXDL)": 1, 
+        "Mobile Application Developer": 1, 
+        "QA Automation Lead": 1, 
+        "Data Analyst": 1, 
+        "Web Application Developer": 1, 
+        "Web Developer": 1, 
+        "Lead Developer": 1, 
+        "Product Manager": 1, 
+        "Co-Op/Intern: Mobile Software Engineer": 1, 
+        "Senior Software Engineer": 1, 
+        "Customer Support Technician": 1, 
+        "UI Designer": 1, 
+        "UX Designer": 1, 
+        "Sr. iOS Developer / Architect": 1, 
+        "2016 Summer Interns": 1, 
+        "Sr. Android Engineer / Architect": 1, 
+        "WordPress Developer": 1, 
+        "Microsoft Software Developer": 1, 
+        "Web Development Manager": 1, 
+        "QA Automation Engineer": 1, 
+        "Customer Solutions Specialist": 1, 
+        "Front End Software Engineer": 1, 
+        "Technical Operations Team Lead": 1, 
+        "Sr. DevOps Engineer": 1, 
+        "Sr. Software Developer (API)": 1, 
+        "Big Data Engineer": 1, 
+        "Mobile Developers - Android & iOS": 1, 
+        "Website Content Review & Customer Support Specialist": 1, 
+        "DBA": 1, 
+        "Software Architect, API": 1, 
+        "Software Engineer": 1
     }, 
-    {
-        "type": {
-            "consultancy": 5, 
-            "agency": 2, 
-            "product": 1, 
-            "internal": 1
-        }
+    "employmentType": {
+        "full-time": 34, 
+        "intern": 3
     }, 
-    {
-        "jobLocation": {
-            "new hope": 10, 
-            "chalfont": 9, 
-            "philadelphia": 7, 
-            "newtown": 4, 
-            "doylestown": 3, 
-            "southampton": 2, 
-            "penndel": 2
-        }
+    "companies": 9, 
+    "technologies": {
+        "Python": 2, 
+        "PostgreSQL": 1, 
+        "MongoDB": 1, 
+        "Django": 1, 
+        ".NET": 1, 
+        "Perl": 1, 
+        "php": 1
     }, 
-    {
-        "title": {
-            "Copywriter Intern": 1, 
-            "Recruiter": 1, 
-            "PHP Developer \u2013 Magento": 1, 
-            "Junior Copywriter": 1, 
-            "Marketing Coordinator": 1, 
-            "Director of Education": 1, 
-            "User Experience Design Lead (UXDL)": 1, 
-            "Mobile Application Developer": 1, 
-            "QA Automation Lead": 1, 
-            "Data Analyst": 1, 
-            "Web Application Developer": 1, 
-            "Web Developer": 1, 
-            "Lead Developer": 1, 
-            "Product Manager": 1, 
-            "Co-Op/Intern: Mobile Software Engineer": 1, 
-            "Senior Software Engineer": 1, 
-            "Customer Support Technician": 1, 
-            "UI Designer": 1, 
-            "UX Designer": 1, 
-            "Sr. iOS Developer / Architect": 1, 
-            "2016 Summer Interns": 1, 
-            "Sr. Android Engineer / Architect": 1, 
-            "WordPress Developer": 1, 
-            "Microsoft Software Developer": 1, 
-            "Web Development Manager": 1, 
-            "QA Automation Engineer": 1, 
-            "Customer Solutions Specialist": 1, 
-            "Front End Software Engineer": 1, 
-            "Technical Operations Team Lead": 1, 
-            "Sr. DevOps Engineer": 1, 
-            "Sr. Software Developer (API)": 1, 
-            "Big Data Engineer": 1, 
-            "Mobile Developers - Android & iOS": 1, 
-            "Website Content Review & Customer Support Specialist": 1, 
-            "DBA": 1, 
-            "Software Architect, API": 1, 
-            "Software Engineer": 1
-        }
+    "jobLocation": {
+        "new hope": 10, 
+        "chalfont": 9, 
+        "philadelphia": 7, 
+        "newtown": 4, 
+        "doylestown": 3, 
+        "southampton": 2, 
+        "penndel": 2
     }, 
-    {
-        "employmentType": {
-            "full-time": 34, 
-            "intern": 3
-        }
-    }, 
-    {
-        "remote": 0
-    }, 
-    {
-        "companies": 9
+    "type": {
+        "consultancy": 5, 
+        "agency": 2, 
+        "product": 1, 
+        "internal": 1
     }
-]
+}
