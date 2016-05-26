@@ -1,19 +1,38 @@
 {
+    "amt_technologies": 0, 
     "remote": 0, 
-    "title": {
-        "Systems Engineer, Senior": 1, 
-        "Systems Engineer, Staff": 1, 
-        "Systems Engineer, Senior Staff": 1
-    }, 
-    "employmentType": {
-        "full-time": 3
-    }, 
+    "title": [
+        {
+            "amount": 1, 
+            "type": "Systems Engineer, Senior"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Systems Engineer, Senior Staff"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Systems Engineer, Staff"
+        }
+    ], 
+    "employmentType": [
+        {
+            "amount": 3, 
+            "type": "full-time"
+        }
+    ], 
     "companies": 1, 
-    "technologies": {}, 
-    "jobLocation": {
-        "moorestown": 3
-    }, 
-    "type": {
-        "consultancy": 1
-    }
+    "technologies": [], 
+    "jobLocation": [
+        {
+            "amount": 3, 
+            "type": "moorestown"
+        }
+    ], 
+    "type": [
+        {
+            "amount": 1, 
+            "type": "consultancy"
+        }
+    ]
 }

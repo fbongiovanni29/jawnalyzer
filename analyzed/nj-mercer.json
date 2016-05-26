@@ -1,19 +1,38 @@
 {
+    "amt_technologies": 0, 
     "remote": 0, 
-    "title": {
-        "Release/DevOps Engineer": 1, 
-        "Data Analyst": 1, 
-        "Software Engineer": 1
-    }, 
-    "employmentType": {
-        "full-time": 3
-    }, 
+    "title": [
+        {
+            "amount": 1, 
+            "type": "Software Engineer"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Release/DevOps Engineer"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Data Analyst"
+        }
+    ], 
+    "employmentType": [
+        {
+            "amount": 3, 
+            "type": "full-time"
+        }
+    ], 
     "companies": 1, 
-    "technologies": {}, 
-    "jobLocation": {
-        "philadelphia": 3
-    }, 
-    "type": {
-        "product": 1
-    }
+    "technologies": [], 
+    "jobLocation": [
+        {
+            "amount": 3, 
+            "type": "philadelphia"
+        }
+    ], 
+    "type": [
+        {
+            "amount": 1, 
+            "type": "product"
+        }
+    ]
 }

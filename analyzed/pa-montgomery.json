@@ -1,247 +1,947 @@
 {
+    "amt_technologies": 11, 
     "remote": 10, 
-    "title": {
-        "DevOps Engineer": 3, 
-        "Senior Software Engineer": 3, 
-        "Web Developer": 2, 
-        "Software Developer": 2, 
-        "Customer Service Representative": 2, 
-        "Project Manager": 2, 
-        "Product Manager": 2, 
-        "Creative Director": 2, 
-        "Software Engineer": 2, 
-        "Director of Engineering": 1, 
-        "Content Analyst": 1, 
-        "Account Representative, Higher Education": 1, 
-        "Data Scientist": 1, 
-        "Product Marketing Manager": 1, 
-        "Copywriter Intern": 1, 
-        "ASSOCIATE ART DIRECTOR": 1, 
-        "Data Architect": 1, 
-        "PROJECT MANAGER": 1, 
-        "Software Developer - Index": 1, 
-        "Software Developer - MDCAD": 1, 
-        "Sr. Technical Recruiter": 1, 
-        "Co Founder/CTO": 1, 
-        "Full Stack Application Developer": 1, 
-        "Data Analyst": 1, 
-        "Mid or Senior Full Stack Developer": 1, 
-        "UI/UX Designer": 1, 
-        "SHAREPOINT ARCHITECTS": 1, 
-        "B2B Sales Representative": 1, 
-        "Senior Java Software Engineer": 1, 
-        "HR Business Partner": 1, 
-        "Sr. Director Business Development": 1, 
-        "Mobile Developer": 1, 
-        "Account Management and Customer Support": 1, 
-        "Linux Engineer": 1, 
-        "QA Automation Engineer": 1, 
-        "  Senior Information Security Engineer": 1, 
-        "Director of Project Management": 1, 
-        "Quantitative Developer": 1, 
-        "IT Consultant \u2013 Junior Level": 1, 
-        "Entry/Mid-Level Inbound Marketing Manager Position": 1, 
-        "DBA": 1, 
-        "Software Developer - Middleware": 1, 
-        "Quantitative Research Analyst": 1, 
-        "Marketing Data Analyst": 1, 
-        "Javascript Engineer": 1, 
-        "Integration Developer": 1, 
-        "Computer Tech Support Internship": 1, 
-        "Software Engineer - C++": 1, 
-        "Software Support Engineer Intern": 1, 
-        "Business Operations Intern": 1, 
-        "iOS Developer": 1, 
-        "Senior Marketing Coordinator": 1, 
-        "Implementation Specialist": 1, 
-        "Enterprise Solution Architect": 1, 
-        "Part-time Experienced SEO Professional": 1, 
-        "Scrum Master": 1, 
-        "Sr. Sales Executive": 1, 
-        "Client Account Manager": 1, 
-        "Scala Developer": 1, 
-        "B2B Account Executive": 1, 
-        "Risk Solutions Engineer": 1, 
-        "Principal Software Engineer": 1, 
-        "Business Development Lead": 1, 
-        "Software Developer - C#": 1, 
-        "JavaScript Developer": 1, 
-        "Recruiter (Healthcare/Pharmacy)": 1, 
-        "Senior Engineer": 1, 
-        "Junior Systems & Network Administrator (Data Center)": 1, 
-        "Oracle PL/SQL Developer": 1, 
-        "Sr. Android Engineer / Architect": 1, 
-        "HELP DESK/SERVICE DESK ANALYST": 1, 
-        "Website Content Review & Customer Support Specialist": 1, 
-        "Digital Engagement Presales Project Manager": 1, 
-        "Marketing Communications Specialist ": 1, 
-        "Network Administrator": 1, 
-        "Human Resources Leader": 1, 
-        "Senior Java/Spring Engineer": 1, 
-        "Junior Systems Administrator": 1, 
-        "Senior Developer": 1, 
-        "Mid-level Java Engineer": 1, 
-        "Director of Corporate Sales": 1, 
-        "DevOps Solution Architect": 1, 
-        "Umbraco ASP.NET Developer": 1, 
-        "Product Manager - Clinical Data Exchange": 1, 
-        "Quality Assurance (QA) Analyst": 1, 
-        "DEVELOPER": 1, 
-        "Senior Level SEO Position": 1, 
-        "Rally Administrator": 1, 
-        "Entry-Mid Level SEO Position": 1, 
-        "Inside Sales Manager": 1, 
-        "Sr. Software Developer (API)": 1, 
-        "Senior .NET Developer (C#)": 1, 
-        "Director, Strategic Accounts": 1, 
-        "RADAR Analyst": 1, 
-        "Software Developer - Server Side": 1, 
-        "Sr. Frontend Developer": 1, 
-        "Marketing Operations Analyst": 1, 
-        "Deployment Specialist": 1, 
-        "Software Developer - Clearing and Positions": 1, 
-        "SENIOR DATA SCIENTIST": 1, 
-        "Associate Project Manager": 1, 
-        "Marketing Communications Specialist": 1, 
-        "VP of Marketing": 1, 
-        "Front-End Developer": 1, 
-        "UX Designer": 1, 
-        "Senior UX Designer": 1, 
-        "Data Migration Specialist": 1, 
-        "Senior C#.Net Software Development Engineer": 1, 
-        "Junior Network Engineer": 1, 
-        "IT Services Sales Representative": 1, 
-        "Inside Sales Person": 1, 
-        "Business Development": 1, 
-        "UI & UX Design Contractors": 1, 
-        "Senior Engineer / Architect (Big Data)": 1, 
-        "IT Consultant \u2013 Mid-Level": 1, 
-        "Agile Coach": 1, 
-        "Sr. DevOps Engineer": 1, 
-        "Data & MDM Architect": 1, 
-        "Marketing Automation (Marketo) Specialist": 1, 
-        "Big Data Engineer": 1, 
-        "Client Technical Support Tier 1 Analyst": 1, 
-        "Software Engineer in Test": 1, 
-        "Software Architect, API": 1, 
-        "Director of Analytics": 1, 
-        "Full Stack Web Developer": 1, 
-        "Business Analyst": 1, 
-        "Account Representative, Corporate": 1, 
-        "Solutions Consultant": 1, 
-        "Data Software Engineer": 1, 
-        "Software Engineer (Java)": 1, 
-        "Junior Front-end Web Developer/Web Designer": 1, 
-        "Junior Software Developer \u2013 Proprietary Trading Services": 1, 
-        "Web Developer ": 1, 
-        "Client Relations Specialist": 1, 
-        "Front-end Developer": 1, 
-        "Senior Systems Engineer": 1, 
-        "Strategic Account Manager": 1, 
-        "Junior C/C++ or MATLAB Developers": 1, 
-        "Translation Project Manager": 1, 
-        "Marketing Coordinator": 1, 
-        "Full-Stack Developer": 1, 
-        "UX/UI Designer/Developer": 1, 
-        "Sales Director": 1, 
-        "Direct Sales": 1, 
-        "Human Resources Advocate, Shared Services": 1, 
-        "Software Test Engineer - Institutional Brokerage Technology": 1, 
-        "Data Scientist \u2013 Credit Risk Strategies": 1, 
-        "Sr. iOS Developer / Architect": 1, 
-        "Business Intelligence Developer": 1, 
-        "Operations Project Manager": 1, 
-        "Windows Engineer Intern": 1, 
-        "APPLICATION PACKAGER": 1, 
-        "Senior Strategy Consultant": 1, 
-        "Content Manager": 1, 
-        "Internships available": 1, 
-        "SENIOR INTERACTIVE DESIGNER": 1, 
-        "Trading Systems Support Engineer": 1, 
-        "UI/UX/Data Visualization Designer": 1, 
-        "QA Analyst": 1, 
-        "Software Development Intern (Part-time)": 1, 
-        "SHAREPOINT DEVELOPERS": 1, 
-        "WordPress developer": 1, 
-        "QA Automation Lead": 1, 
-        "VoIP Support Technician": 1, 
-        "Front-End / UI Developer": 1, 
-        "Software Quality Assurance (QA) Engineer": 1, 
-        "Email Marketing Manager": 1, 
-        "Automation Engineer Intern": 1, 
-        "Adobe Solution Architect": 1
-    }, 
-    "employmentType": {
-        "full-time": 166, 
-        "intern": 8, 
-        "contract": 5, 
-        "part-time": 1
-    }, 
+    "title": [
+        {
+            "amount": 3, 
+            "type": "Senior Software Engineer"
+        }, 
+        {
+            "amount": 3, 
+            "type": "DevOps Engineer"
+        }, 
+        {
+            "amount": 2, 
+            "type": "Creative Director"
+        }, 
+        {
+            "amount": 2, 
+            "type": "Product Manager"
+        }, 
+        {
+            "amount": 2, 
+            "type": "Software Developer"
+        }, 
+        {
+            "amount": 2, 
+            "type": "Web Developer"
+        }, 
+        {
+            "amount": 2, 
+            "type": "Software Engineer"
+        }, 
+        {
+            "amount": 2, 
+            "type": "Project Manager"
+        }, 
+        {
+            "amount": 2, 
+            "type": "Customer Service Representative"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Sr. Technical Recruiter"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Scrum Master"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Agile Coach"
+        }, 
+        {
+            "amount": 1, 
+            "type": "UI/UX Designer"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Network Administrator"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Director of Corporate Sales"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Account Representative, Corporate"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Account Representative, Higher Education"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Entry/Mid-Level Inbound Marketing Manager Position"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Junior Front-end Web Developer/Web Designer"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Senior Level SEO Position"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Entry-Mid Level SEO Position"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Part-time Experienced SEO Professional"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Umbraco ASP.NET Developer"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Full Stack Application Developer"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Software Development Intern (Part-time)"
+        }, 
+        {
+            "amount": 1, 
+            "type": "RADAR Analyst"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Deployment Specialist"
+        }, 
+        {
+            "amount": 1, 
+            "type": "QA Analyst"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Oracle PL/SQL Developer"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Product Marketing Manager"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Software Engineer (Java)"
+        }, 
+        {
+            "amount": 1, 
+            "type": "JavaScript Developer"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Senior Java Software Engineer"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Scala Developer"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Senior Java/Spring Engineer"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Mobile Developer"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Content Manager"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Sr. Director Business Development"
+        }, 
+        {
+            "amount": 1, 
+            "type": "SENIOR DATA SCIENTIST"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Marketing Communications Specialist"
+        }, 
+        {
+            "amount": 1, 
+            "type": "VoIP Support Technician"
+        }, 
+        {
+            "amount": 1, 
+            "type": "VP of Marketing"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Full Stack Web Developer"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Principal Software Engineer"
+        }, 
+        {
+            "amount": 1, 
+            "type": "DEVELOPER"
+        }, 
+        {
+            "amount": 1, 
+            "type": "ASSOCIATE ART DIRECTOR"
+        }, 
+        {
+            "amount": 1, 
+            "type": "SENIOR INTERACTIVE DESIGNER"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Associate Project Manager"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Copywriter Intern"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Digital Engagement Presales Project Manager"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Email Marketing Manager"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Recruiter (Healthcare/Pharmacy)"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Senior UX Designer"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Adobe Solution Architect"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Data & MDM Architect"
+        }, 
+        {
+            "amount": 1, 
+            "type": "DevOps Solution Architect"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Director of Project Management"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Enterprise Solution Architect"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Front-end Developer"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Rally Administrator"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Senior Developer"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Co Founder/CTO"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Client Account Manager"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Translation Project Manager"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Client Relations Specialist"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Integration Developer"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Client Technical Support Tier 1 Analyst"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Product Manager - Clinical Data Exchange"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Quality Assurance (QA) Analyst"
+        }, 
+        {
+            "amount": 1, 
+            "type": "IT Services Sales Representative"
+        }, 
+        {
+            "amount": 1, 
+            "type": "IT Consultant \u2013 Mid-Level"
+        }, 
+        {
+            "amount": 1, 
+            "type": "IT Consultant \u2013 Junior Level"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Computer Tech Support Internship"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Data Scientist"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Director of Engineering"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Software Engineer in Test"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Director, Strategic Accounts"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Direct Sales"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Strategic Account Manager"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Big Data Engineer"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Data Analyst"
+        }, 
+        {
+            "amount": 1, 
+            "type": "DBA"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Software Architect, API"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Sr. Android Engineer / Architect"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Sr. DevOps Engineer"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Sr. iOS Developer / Architect"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Sr. Software Developer (API)"
+        }, 
+        {
+            "amount": 1, 
+            "type": "QA Automation Engineer"
+        }, 
+        {
+            "amount": 1, 
+            "type": "QA Automation Lead"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Website Content Review & Customer Support Specialist"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Director of Analytics"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Senior Strategy Consultant"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Javascript Engineer"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Marketing Automation (Marketo) Specialist"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Sales Director"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Solutions Consultant"
+        }, 
+        {
+            "amount": 1, 
+            "type": "WordPress developer"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Business Development Lead"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Sr. Frontend Developer"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Senior Engineer"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Senior Engineer / Architect (Big Data)"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Mid-level Java Engineer"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Software Support Engineer Intern"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Windows Engineer Intern"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Automation Engineer Intern"
+        }, 
+        {
+            "amount": 1, 
+            "type": "  Senior Information Security Engineer"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Risk Solutions Engineer"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Human Resources Advocate, Shared Services"
+        }, 
+        {
+            "amount": 1, 
+            "type": "HR Business Partner"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Human Resources Leader"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Business Development"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Front-End Developer"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Sr. Sales Executive"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Data Architect"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Data Migration Specialist"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Junior C/C++ or MATLAB Developers"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Software Developer - C#"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Quantitative Developer"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Software Developer - Clearing and Positions"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Junior Systems Administrator"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Trading Systems Support Engineer"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Junior Systems & Network Administrator (Data Center)"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Software Developer - MDCAD"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Business Intelligence Developer"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Junior Software Developer \u2013 Proprietary Trading Services"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Software Engineer - C++"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Junior Network Engineer"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Data Software Engineer"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Software Developer - Server Side"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Software Developer - Middleware"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Quantitative Research Analyst"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Software Developer - Index"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Linux Engineer"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Software Test Engineer - Institutional Brokerage Technology"
+        }, 
+        {
+            "amount": 1, 
+            "type": "UX/UI Designer/Developer"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Senior Systems Engineer"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Senior Marketing Coordinator"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Senior C#.Net Software Development Engineer"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Marketing Operations Analyst"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Marketing Data Analyst"
+        }, 
+        {
+            "amount": 1, 
+            "type": "B2B Sales Representative"
+        }, 
+        {
+            "amount": 1, 
+            "type": "B2B Account Executive"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Software Quality Assurance (QA) Engineer"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Internships available"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Data Scientist \u2013 Credit Risk Strategies"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Account Management and Customer Support"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Marketing Communications Specialist "
+        }, 
+        {
+            "amount": 1, 
+            "type": "Senior .NET Developer (C#)"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Content Analyst"
+        }, 
+        {
+            "amount": 1, 
+            "type": "UI/UX/Data Visualization Designer"
+        }, 
+        {
+            "amount": 1, 
+            "type": "UI & UX Design Contractors"
+        }, 
+        {
+            "amount": 1, 
+            "type": "UX Designer"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Web Developer "
+        }, 
+        {
+            "amount": 1, 
+            "type": "Full-Stack Developer"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Front-End / UI Developer"
+        }, 
+        {
+            "amount": 1, 
+            "type": "iOS Developer"
+        }, 
+        {
+            "amount": 1, 
+            "type": "SHAREPOINT ARCHITECTS"
+        }, 
+        {
+            "amount": 1, 
+            "type": "SHAREPOINT DEVELOPERS"
+        }, 
+        {
+            "amount": 1, 
+            "type": "PROJECT MANAGER"
+        }, 
+        {
+            "amount": 1, 
+            "type": "HELP DESK/SERVICE DESK ANALYST"
+        }, 
+        {
+            "amount": 1, 
+            "type": "APPLICATION PACKAGER"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Mid or Senior Full Stack Developer"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Business Analyst"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Implementation Specialist"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Inside Sales Person"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Marketing Coordinator"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Business Operations Intern"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Operations Project Manager"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Inside Sales Manager"
+        }
+    ], 
+    "employmentType": [
+        {
+            "amount": 166, 
+            "type": "full-time"
+        }, 
+        {
+            "amount": 8, 
+            "type": "intern"
+        }, 
+        {
+            "amount": 5, 
+            "type": "contract"
+        }, 
+        {
+            "amount": 1, 
+            "type": "part-time"
+        }
+    ], 
     "companies": 42, 
-    "technologies": {
-        "Javascript": 4, 
-        "Java": 3, 
-        ".NET": 3, 
-        "Scala": 2, 
-        "Python": 2, 
-        "Angular.js": 2, 
-        "ASP.NET": 2, 
-        "PHP": 2, 
-        "Yii": 1, 
-        "Oracle": 1, 
-        "MySQL": 1, 
-        "CodeIgniter": 1, 
-        "Spray": 1, 
-        "HTML": 1, 
-        "Ruby": 1, 
-        "Laravel": 1, 
-        "C": 1, 
-        "Drupal": 1, 
-        "PL/SQL": 1, 
-        "Objective-C": 1, 
-        "WCF": 1, 
-        "CakePHP": 1, 
-        "Akka": 1, 
-        "CSS3": 1, 
-        "MongoDB": 1, 
-        "Zend": 1, 
-        "Umbraco": 1, 
-        "Kafka": 1, 
-        "C#": 1, 
-        "elasticsearch": 1, 
-        "SQL": 1, 
-        "Amazon Web Services": 1
-    }, 
-    "jobLocation": {
-        "conshohocken": 37, 
-        "philadelphia": 26, 
-        "bala cynwyd": 19, 
-        "king of prussia": 19, 
-        "blue bell": 13, 
-        "new hope": 10, 
-        "kingofprussia": 9, 
-        "fort washington": 7, 
-        "ambler": 6, 
-        "lansdale": 5, 
-        "limerick": 4, 
-        "radnor": 4, 
-        "willow grove": 4, 
-        "wyndmoor": 3, 
-        "jenkintown": 3, 
-        "horsham": 3, 
-        "ardmore": 2, 
-        "dresher": 2, 
-        "wilmington": 1, 
-        "north wales": 1, 
-        "plymouth": 1, 
-        "balacynwyd": 1
-    }, 
-    "type": {
-        "product": 18, 
-        "consultancy": 15, 
-        "internal": 6, 
-        "agency": 4, 
-        "startup": 1, 
-        "staffing": 1
-    }
+    "technologies": [
+        {
+            "amount": 4, 
+            "type": "Javascript"
+        }, 
+        {
+            "amount": 3, 
+            "type": "Java"
+        }, 
+        {
+            "amount": 3, 
+            "type": ".NET"
+        }, 
+        {
+            "amount": 2, 
+            "type": "PHP"
+        }, 
+        {
+            "amount": 2, 
+            "type": "Python"
+        }, 
+        {
+            "amount": 2, 
+            "type": "Scala"
+        }, 
+        {
+            "amount": 2, 
+            "type": "Angular.js"
+        }, 
+        {
+            "amount": 2, 
+            "type": "ASP.NET"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Umbraco"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Oracle"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Drupal"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Yii"
+        }, 
+        {
+            "amount": 1, 
+            "type": "CodeIgniter"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Zend"
+        }, 
+        {
+            "amount": 1, 
+            "type": "MySQL"
+        }, 
+        {
+            "amount": 1, 
+            "type": "C"
+        }, 
+        {
+            "amount": 1, 
+            "type": "CakePHP"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Laravel"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Spray"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Amazon Web Services"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Kafka"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Akka"
+        }, 
+        {
+            "amount": 1, 
+            "type": "C#"
+        }, 
+        {
+            "amount": 1, 
+            "type": "SQL"
+        }, 
+        {
+            "amount": 1, 
+            "type": "CSS3"
+        }, 
+        {
+            "amount": 1, 
+            "type": "HTML"
+        }, 
+        {
+            "amount": 1, 
+            "type": "PL/SQL"
+        }, 
+        {
+            "amount": 1, 
+            "type": "WCF"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Objective-C"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Ruby"
+        }, 
+        {
+            "amount": 1, 
+            "type": "MongoDB"
+        }, 
+        {
+            "amount": 1, 
+            "type": "elasticsearch"
+        }
+    ], 
+    "jobLocation": [
+        {
+            "amount": 37, 
+            "type": "conshohocken"
+        }, 
+        {
+            "amount": 26, 
+            "type": "philadelphia"
+        }, 
+        {
+            "amount": 19, 
+            "type": "king of prussia"
+        }, 
+        {
+            "amount": 19, 
+            "type": "bala cynwyd"
+        }, 
+        {
+            "amount": 13, 
+            "type": "blue bell"
+        }, 
+        {
+            "amount": 10, 
+            "type": "new hope"
+        }, 
+        {
+            "amount": 9, 
+            "type": "kingofprussia"
+        }, 
+        {
+            "amount": 7, 
+            "type": "fort washington"
+        }, 
+        {
+            "amount": 6, 
+            "type": "ambler"
+        }, 
+        {
+            "amount": 5, 
+            "type": "lansdale"
+        }, 
+        {
+            "amount": 4, 
+            "type": "limerick"
+        }, 
+        {
+            "amount": 4, 
+            "type": "radnor"
+        }, 
+        {
+            "amount": 4, 
+            "type": "willow grove"
+        }, 
+        {
+            "amount": 3, 
+            "type": "wyndmoor"
+        }, 
+        {
+            "amount": 3, 
+            "type": "jenkintown"
+        }, 
+        {
+            "amount": 3, 
+            "type": "horsham"
+        }, 
+        {
+            "amount": 2, 
+            "type": "dresher"
+        }, 
+        {
+            "amount": 2, 
+            "type": "ardmore"
+        }, 
+        {
+            "amount": 1, 
+            "type": "plymouth"
+        }, 
+        {
+            "amount": 1, 
+            "type": "balacynwyd"
+        }, 
+        {
+            "amount": 1, 
+            "type": "north wales"
+        }, 
+        {
+            "amount": 1, 
+            "type": "wilmington"
+        }
+    ], 
+    "type": [
+        {
+            "amount": 18, 
+            "type": "product"
+        }, 
+        {
+            "amount": 15, 
+            "type": "consultancy"
+        }, 
+        {
+            "amount": 6, 
+            "type": "internal"
+        }, 
+        {
+            "amount": 4, 
+            "type": "agency"
+        }, 
+        {
+            "amount": 1, 
+            "type": "staffing"
+        }, 
+        {
+            "amount": 1, 
+            "type": "startup"
+        }
+    ]
 }

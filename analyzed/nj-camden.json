@@ -1,22 +1,50 @@
 {
+    "amt_technologies": 0, 
     "remote": 0, 
-    "title": {
-        "Linux Solutions Consultant": 1, 
-        "Senior Database Administrator (MySQL)": 1, 
-        "Security Engineer": 1, 
-        "Linux Technical Support": 1, 
-        "Linux Systems Engineer": 1, 
-        "Software Engineer": 1
-    }, 
-    "employmentType": {
-        "full-time": 6
-    }, 
+    "title": [
+        {
+            "amount": 1, 
+            "type": "Linux Technical Support"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Software Engineer"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Linux Systems Engineer"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Security Engineer"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Senior Database Administrator (MySQL)"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Linux Solutions Consultant"
+        }
+    ], 
+    "employmentType": [
+        {
+            "amount": 6, 
+            "type": "full-time"
+        }
+    ], 
     "companies": 2, 
-    "technologies": {}, 
-    "jobLocation": {
-        "haddonfield": 6
-    }, 
-    "type": {
-        "product": 2
-    }
+    "technologies": [], 
+    "jobLocation": [
+        {
+            "amount": 6, 
+            "type": "haddonfield"
+        }
+    ], 
+    "type": [
+        {
+            "amount": 2, 
+            "type": "product"
+        }
+    ]
 }

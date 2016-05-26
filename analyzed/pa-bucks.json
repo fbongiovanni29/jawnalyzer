@@ -1,71 +1,243 @@
 {
+    "amt_technologies": 3, 
     "remote": 0, 
-    "title": {
-        "Copywriter Intern": 1, 
-        "Recruiter": 1, 
-        "PHP Developer \u2013 Magento": 1, 
-        "Junior Copywriter": 1, 
-        "Marketing Coordinator": 1, 
-        "Director of Education": 1, 
-        "User Experience Design Lead (UXDL)": 1, 
-        "Mobile Application Developer": 1, 
-        "QA Automation Lead": 1, 
-        "Data Analyst": 1, 
-        "Web Application Developer": 1, 
-        "Web Developer": 1, 
-        "Lead Developer": 1, 
-        "Product Manager": 1, 
-        "Co-Op/Intern: Mobile Software Engineer": 1, 
-        "Senior Software Engineer": 1, 
-        "Customer Support Technician": 1, 
-        "UI Designer": 1, 
-        "UX Designer": 1, 
-        "Sr. iOS Developer / Architect": 1, 
-        "2016 Summer Interns": 1, 
-        "Sr. Android Engineer / Architect": 1, 
-        "WordPress Developer": 1, 
-        "Microsoft Software Developer": 1, 
-        "Web Development Manager": 1, 
-        "QA Automation Engineer": 1, 
-        "Customer Solutions Specialist": 1, 
-        "Front End Software Engineer": 1, 
-        "Technical Operations Team Lead": 1, 
-        "Sr. DevOps Engineer": 1, 
-        "Sr. Software Developer (API)": 1, 
-        "Big Data Engineer": 1, 
-        "Mobile Developers - Android & iOS": 1, 
-        "Website Content Review & Customer Support Specialist": 1, 
-        "DBA": 1, 
-        "Software Architect, API": 1, 
-        "Software Engineer": 1
-    }, 
-    "employmentType": {
-        "full-time": 34, 
-        "intern": 3
-    }, 
+    "title": [
+        {
+            "amount": 1, 
+            "type": "Customer Solutions Specialist"
+        }, 
+        {
+            "amount": 1, 
+            "type": "UI Designer"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Front End Software Engineer"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Senior Software Engineer"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Software Engineer"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Technical Operations Team Lead"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Web Development Manager"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Recruiter"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Co-Op/Intern: Mobile Software Engineer"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Customer Support Technician"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Microsoft Software Developer"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Web Application Developer"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Mobile Application Developer"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Copywriter Intern"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Junior Copywriter"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Lead Developer"
+        }, 
+        {
+            "amount": 1, 
+            "type": "UX Designer"
+        }, 
+        {
+            "amount": 1, 
+            "type": "PHP Developer \u2013 Magento"
+        }, 
+        {
+            "amount": 1, 
+            "type": "WordPress Developer"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Big Data Engineer"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Data Analyst"
+        }, 
+        {
+            "amount": 1, 
+            "type": "DBA"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Software Architect, API"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Sr. Android Engineer / Architect"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Sr. DevOps Engineer"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Sr. iOS Developer / Architect"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Sr. Software Developer (API)"
+        }, 
+        {
+            "amount": 1, 
+            "type": "QA Automation Engineer"
+        }, 
+        {
+            "amount": 1, 
+            "type": "QA Automation Lead"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Product Manager"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Website Content Review & Customer Support Specialist"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Web Developer"
+        }, 
+        {
+            "amount": 1, 
+            "type": "2016 Summer Interns"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Director of Education"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Marketing Coordinator"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Mobile Developers - Android & iOS"
+        }, 
+        {
+            "amount": 1, 
+            "type": "User Experience Design Lead (UXDL)"
+        }
+    ], 
+    "employmentType": [
+        {
+            "amount": 34, 
+            "type": "full-time"
+        }, 
+        {
+            "amount": 3, 
+            "type": "intern"
+        }
+    ], 
     "companies": 9, 
-    "technologies": {
-        "Python": 2, 
-        "PostgreSQL": 1, 
-        "MongoDB": 1, 
-        "Django": 1, 
-        ".NET": 1, 
-        "Perl": 1, 
-        "PHP": 1
-    }, 
-    "jobLocation": {
-        "new hope": 10, 
-        "chalfont": 9, 
-        "philadelphia": 7, 
-        "newtown": 4, 
-        "doylestown": 3, 
-        "southampton": 2, 
-        "penndel": 2
-    }, 
-    "type": {
-        "consultancy": 5, 
-        "agency": 2, 
-        "product": 1, 
-        "internal": 1
-    }
+    "technologies": [
+        {
+            "amount": 2, 
+            "type": "Python"
+        }, 
+        {
+            "amount": 1, 
+            "type": "PHP"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Perl"
+        }, 
+        {
+            "amount": 1, 
+            "type": "MongoDB"
+        }, 
+        {
+            "amount": 1, 
+            "type": "PostgreSQL"
+        }, 
+        {
+            "amount": 1, 
+            "type": ".NET"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Django"
+        }
+    ], 
+    "jobLocation": [
+        {
+            "amount": 10, 
+            "type": "new hope"
+        }, 
+        {
+            "amount": 9, 
+            "type": "chalfont"
+        }, 
+        {
+            "amount": 7, 
+            "type": "philadelphia"
+        }, 
+        {
+            "amount": 4, 
+            "type": "newtown"
+        }, 
+        {
+            "amount": 3, 
+            "type": "doylestown"
+        }, 
+        {
+            "amount": 2, 
+            "type": "southampton"
+        }, 
+        {
+            "amount": 2, 
+            "type": "penndel"
+        }
+    ], 
+    "type": [
+        {
+            "amount": 5, 
+            "type": "consultancy"
+        }, 
+        {
+            "amount": 2, 
+            "type": "agency"
+        }, 
+        {
+            "amount": 1, 
+            "type": "product"
+        }, 
+        {
+            "amount": 1, 
+            "type": "internal"
+        }
+    ]
 }

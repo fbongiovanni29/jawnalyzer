@@ -1,48 +1,151 @@
 {
+    "amt_technologies": 1, 
     "remote": 1, 
-    "title": {
-        "Client Support Specialist": 1, 
-        "Business Analyst - Enterprise Product Management": 1, 
-        "Implementation Engineer": 1, 
-        "Data Warehouse/ETL Developer": 1, 
-        "Software Engineer - Infrastructure & Tools": 1, 
-        ".Net Developer": 1, 
-        "SSRS Report Developer": 1, 
-        "Art Director": 1, 
-        "Senior Digital Marketing Project Manager": 1, 
-        "SSAS Consultant": 1, 
-        "Product Owner": 1, 
-        "Senior Consultant": 1, 
-        "Sr. Manager of Brand Marketing": 1, 
-        "Software Engineer - Deployment": 1, 
-        "Product Manager": 1, 
-        "Software Engineer - API": 1, 
-        "Software Engineer - Application Developer": 1, 
-        "UI/UX Designer": 1, 
-        "Web Marketing Project Manager": 1, 
-        "Software Engineer - Front End Architecture": 1, 
-        "Software Engineering Manager": 1, 
-        "Data Services Support Specialist": 1, 
-        "Software Engineer - Aggregation Infrastructure": 1, 
-        "Systems Architect": 1, 
-        "Organic Search Manager": 1, 
-        "Agile Coach / Scrum Master": 1, 
-        "Lead Generation Manager": 1
-    }, 
-    "employmentType": {
-        "full-time": 27
-    }, 
+    "title": [
+        {
+            "amount": 1, 
+            "type": "Agile Coach / Scrum Master"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Software Engineer - Aggregation Infrastructure"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Software Engineer - API"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Software Engineer - Application Developer"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Software Engineer - Deployment"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Software Engineer - Front End Architecture"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Software Engineer - Infrastructure & Tools"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Software Engineering Manager"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Client Support Specialist"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Art Director"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Data Services Support Specialist"
+        }, 
+        {
+            "amount": 1, 
+            "type": "UI/UX Designer"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Systems Architect"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Lead Generation Manager"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Sr. Manager of Brand Marketing"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Business Analyst - Enterprise Product Management"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Implementation Engineer"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Product Manager"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Product Owner"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Web Marketing Project Manager"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Organic Search Manager"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Senior Digital Marketing Project Manager"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Senior Consultant"
+        }, 
+        {
+            "amount": 1, 
+            "type": ".Net Developer"
+        }, 
+        {
+            "amount": 1, 
+            "type": "SSRS Report Developer"
+        }, 
+        {
+            "amount": 1, 
+            "type": "SSAS Consultant"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Data Warehouse/ETL Developer"
+        }
+    ], 
+    "employmentType": [
+        {
+            "amount": 27, 
+            "type": "full-time"
+        }
+    ], 
     "companies": 4, 
-    "technologies": {
-        ".NET": 1
-    }, 
-    "jobLocation": {
-        "radnor": 19, 
-        "newtown square": 5, 
-        "wayne": 3
-    }, 
-    "type": {
-        "consultancy": 3, 
-        "internal": 1
-    }
+    "technologies": [
+        {
+            "amount": 1, 
+            "type": ".NET"
+        }
+    ], 
+    "jobLocation": [
+        {
+            "amount": 19, 
+            "type": "radnor"
+        }, 
+        {
+            "amount": 5, 
+            "type": "newtown square"
+        }, 
+        {
+            "amount": 3, 
+            "type": "wayne"
+        }
+    ], 
+    "type": [
+        {
+            "amount": 3, 
+            "type": "consultancy"
+        }, 
+        {
+            "amount": 1, 
+            "type": "internal"
+        }
+    ]
 }

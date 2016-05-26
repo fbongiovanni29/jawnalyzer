@@ -1,127 +1,467 @@
 {
+    "amt_technologies": 3, 
     "remote": 6, 
-    "title": {
-        "DevOps Engineer": 2, 
-        "Senior Software Engineer": 2, 
-        "Systems Engineering Senior Advisor": 2, 
-        "Java Developer": 2, 
-        "ERP Product Specialist": 1, 
-        "Technology Advisor": 1, 
-        "Senior Data Modeler": 1, 
-        "Web Analyst / Tester": 1, 
-        "FT Front End Developer-2": 1, 
-        "Senior Data Analyst": 1, 
-        "Cloud Computing Sales Engineer": 1, 
-        "Sitecore Developer": 1, 
-        "Senior Project Manager": 1, 
-        "Front End Developer - Fulltime": 1, 
-        "SW Solutions Architect III": 1, 
-        "Front end Javascript Engineer": 1, 
-        "Senior Product Business Analyst": 1, 
-        "ISV Business Developer Partner Accounts US Remote": 1, 
-        "Senior Director, Solutions Marketing": 1, 
-        "Sales Development Representative": 1, 
-        "Web Application Developer": 1, 
-        "ISV Business Developer SAP": 1, 
-        "Project Manager": 1, 
-        "Software Development Engineer": 1, 
-        ".NET Senior Software Engineer": 1, 
-        "Actuarial Developer": 1, 
-        "Lead Web Development Architect": 1, 
-        "Contract Renewal Specialist": 1, 
-        "Application Developer, Senior": 1, 
-        "Junior Linux Administrator": 1, 
-        "Senior Business Analyst": 1, 
-        "C# / .NET Software Developer": 1, 
-        "Senior Product Manager": 1, 
-        "Sr. Java developer": 1, 
-        "Customer Ambassador": 1, 
-        "Senior Data Scientist": 1, 
-        "Software Engineer Java": 1, 
-        "Cloud Developer Architect": 1, 
-        "BI and Data Warehouse Specialist": 1, 
-        "UI Developer": 1, 
-        "Programmer / Developer": 1, 
-        "Senior iOS Developer": 1, 
-        "Cloud Services Developer": 1, 
-        "QA Test Engineer": 1, 
-        "Technical Support Specialist": 1, 
-        "Senior Application Architect": 1, 
-        "Lead Project Architect": 1, 
-        "Senior Director, IT Security and Compliance": 1, 
-        "Product Marketing Manager": 1, 
-        "Sales Engineer": 1, 
-        "Application Support Engineer": 1, 
-        ".NET Developer": 1, 
-        "Accounts Receivable-Collections": 1, 
-        "Senior SharePoint Engineer": 1, 
-        "Information Security Engineer-Sr.": 1, 
-        "Lead Infrastructure Engineer": 1, 
-        "Solutions Support Engineer": 1, 
-        "Application Developer": 1, 
-        "Senior Data Manager": 1, 
-        "Front End Developer": 1, 
-        "Account Executive - Digital Sales and Marketing": 1, 
-        "QA Analyst": 1, 
-        "Ruby on Rails Web Developer": 1, 
-        "Creative Director": 1, 
-        "Quality Assurance Engineer": 1, 
-        "Javascript UI Developer": 1, 
-        "Account Executive": 1, 
-        "Chief Analytics Officer": 1, 
-        "Business Development Representative": 1, 
-        "Data Analytics Lead Contributor": 1, 
-        "Customer Marketing Manager Dell Boomi": 1, 
-        "Technical Specialist": 1, 
-        "Business Development Executive": 1, 
-        "Cloud Developer Architect Contractor": 1, 
-        "Digital Marketing Strategist": 1, 
-        "SharePoint Contractor": 1, 
-        "Linux Application Developer": 1, 
-        "Director, Content and Brand Marketing": 1, 
-        "Software Sales Account Director": 1
-    }, 
-    "employmentType": {
-        "full-time": 81, 
-        "contract": 2
-    }, 
+    "title": [
+        {
+            "amount": 2, 
+            "type": "Systems Engineering Senior Advisor"
+        }, 
+        {
+            "amount": 2, 
+            "type": "Java Developer"
+        }, 
+        {
+            "amount": 2, 
+            "type": "Senior Software Engineer"
+        }, 
+        {
+            "amount": 2, 
+            "type": "DevOps Engineer"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Senior iOS Developer"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Quality Assurance Engineer"
+        }, 
+        {
+            "amount": 1, 
+            "type": "ISV Business Developer SAP"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Customer Marketing Manager Dell Boomi"
+        }, 
+        {
+            "amount": 1, 
+            "type": "ISV Business Developer Partner Accounts US Remote"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Software Development Engineer"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Software Engineer Java"
+        }, 
+        {
+            "amount": 1, 
+            "type": "SW Solutions Architect III"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Business Development Representative"
+        }, 
+        {
+            "amount": 1, 
+            "type": "ERP Product Specialist"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Project Manager"
+        }, 
+        {
+            "amount": 1, 
+            "type": "C# / .NET Software Developer"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Technical Specialist"
+        }, 
+        {
+            "amount": 1, 
+            "type": ".NET Developer"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Junior Linux Administrator"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Technical Support Specialist"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Cloud Computing Sales Engineer"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Technology Advisor"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Front End Developer"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Front End Developer - Fulltime"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Sr. Java developer"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Ruby on Rails Web Developer"
+        }, 
+        {
+            "amount": 1, 
+            "type": "FT Front End Developer-2"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Front end Javascript Engineer"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Information Security Engineer-Sr."
+        }, 
+        {
+            "amount": 1, 
+            "type": "Lead Infrastructure Engineer"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Sales Engineer"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Contract Renewal Specialist"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Accounts Receivable-Collections"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Application Support Engineer"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Actuarial Developer"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Senior Project Manager"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Software Sales Account Director"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Senior Business Analyst"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Business Development Executive"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Senior Data Modeler"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Application Developer, Senior"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Application Developer"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Senior Director, IT Security and Compliance"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Senior Director, Solutions Marketing"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Senior Product Business Analyst"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Senior Application Architect"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Chief Analytics Officer"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Senior Data Analyst"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Senior Data Manager"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Senior Data Scientist"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Senior Product Manager"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Lead Web Development Architect"
+        }, 
+        {
+            "amount": 1, 
+            "type": "UI Developer"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Web Analyst / Tester"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Product Marketing Manager"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Account Executive"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Sales Development Representative"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Customer Ambassador"
+        }, 
+        {
+            "amount": 1, 
+            "type": "QA Analyst"
+        }, 
+        {
+            "amount": 1, 
+            "type": ".NET Senior Software Engineer"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Account Executive - Digital Sales and Marketing"
+        }, 
+        {
+            "amount": 1, 
+            "type": "SharePoint Contractor"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Sitecore Developer"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Digital Marketing Strategist"
+        }, 
+        {
+            "amount": 1, 
+            "type": "BI and Data Warehouse Specialist"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Cloud Developer Architect"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Senior SharePoint Engineer"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Cloud Developer Architect Contractor"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Creative Director"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Lead Project Architect"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Programmer / Developer"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Web Application Developer"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Cloud Services Developer"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Javascript UI Developer"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Linux Application Developer"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Solutions Support Engineer"
+        }, 
+        {
+            "amount": 1, 
+            "type": "QA Test Engineer"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Data Analytics Lead Contributor"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Director, Content and Brand Marketing"
+        }
+    ], 
+    "employmentType": [
+        {
+            "amount": 81, 
+            "type": "full-time"
+        }, 
+        {
+            "amount": 2, 
+            "type": "contract"
+        }
+    ], 
     "companies": 18, 
-    "technologies": {
-        "C#": 2, 
-        "CSS3": 1, 
-        "jQuery": 1, 
-        ".NET": 1, 
-        "Java": 1, 
-        "Core Data": 1, 
-        "SQL Server": 1, 
-        "Core Text": 1, 
-        "Selenium": 1, 
-        "Cocoa Touch Experience": 1, 
-        "Javascript": 1, 
-        "Objective-C": 1, 
-        "Microsoft Azure DocumentDB": 1, 
-        "Knockout": 1, 
-        "Core Animation": 1, 
-        "ASP.NET 4.5": 1, 
-        "Core Graphics": 1, 
-        "Bootstrap": 1, 
-        "HTML5": 1
-    }, 
-    "jobLocation": {
-        "wayne": 22, 
-        "philadelphia": 17, 
-        "malvern": 17, 
-        "exton": 15, 
-        "berwyn": 8, 
-        "downingtown": 3, 
-        "devon": 1
-    }, 
-    "type": {
-        "product": 7, 
-        "consultancy": 7, 
-        "agency": 2, 
-        "startup": 2, 
-        "Product": 1, 
-        "internal": 1
-    }
+    "technologies": [
+        {
+            "amount": 2, 
+            "type": "C#"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Objective-C"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Cocoa Touch Experience"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Core Data"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Core Animation"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Core Graphics"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Core Text"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Selenium"
+        }, 
+        {
+            "amount": 1, 
+            "type": ".NET"
+        }, 
+        {
+            "amount": 1, 
+            "type": "SQL Server"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Java"
+        }, 
+        {
+            "amount": 1, 
+            "type": "ASP.NET 4.5"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Microsoft Azure DocumentDB"
+        }, 
+        {
+            "amount": 1, 
+            "type": "HTML5"
+        }, 
+        {
+            "amount": 1, 
+            "type": "CSS3"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Javascript"
+        }, 
+        {
+            "amount": 1, 
+            "type": "jQuery"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Bootstrap"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Knockout"
+        }
+    ], 
+    "jobLocation": [
+        {
+            "amount": 22, 
+            "type": "wayne"
+        }, 
+        {
+            "amount": 17, 
+            "type": "philadelphia"
+        }, 
+        {
+            "amount": 17, 
+            "type": "malvern"
+        }, 
+        {
+            "amount": 15, 
+            "type": "exton"
+        }, 
+        {
+            "amount": 8, 
+            "type": "berwyn"
+        }, 
+        {
+            "amount": 3, 
+            "type": "downingtown"
+        }, 
+        {
+            "amount": 1, 
+            "type": "devon"
+        }
+    ], 
+    "type": [
+        {
+            "amount": 7, 
+            "type": "consultancy"
+        }, 
+        {
+            "amount": 7, 
+            "type": "product"
+        }, 
+        {
+            "amount": 2, 
+            "type": "agency"
+        }, 
+        {
+            "amount": 2, 
+            "type": "startup"
+        }, 
+        {
+            "amount": 1, 
+            "type": "Product"
+        }, 
+        {
+            "amount": 1, 
+            "type": "internal"
+        }
+    ]
 }
