@@ -1270,7 +1270,7 @@
       "Python",
       "Scala",
       "C",
-      "AngularJS",
+      "Angular.js",
       "CakePHP",
       "Laravel",
       "Spray",
@@ -2502,9 +2502,9 @@
     "technologies": [
       "C#",
       "ASP.NET",
-      "JavaScript",
+      "Javascript",
       "SQL",
-      "CSS",
+      "CSS3",
       "HTML",
       "PL/SQL",
       "WCF"
@@ -2684,7 +2684,7 @@
       "Java",
       ".NET",
       "Ruby",
-      "JavaScript"
+      "Javascript"
     ],
     "locations": {
       "conshohocken": {
@@ -2835,11 +2835,11 @@
     "url": "https://careers.stackoverflow.com/company/vertmarkets-inc#jobs",
     "webSiteUrl": "http://www.vertmarkets.com/",
     "technologies": [
-      "mongodb",
+      "MongoDB",
       "elasticsearch",
-      "angularjs",
-      "javascript",
-      "asp.net-mvc"
+      "Angular.js",
+      "Javascript",
+      "ASP.NET"
     ],
     "locations": {
       "horsham": {

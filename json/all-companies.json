@@ -10,7 +10,7 @@
       "Wordpress",
       "Drupal",
       "Expression Engine",
-      "JQuery",
+      "jQuery",
       "TweenMax",
       "velocity.js"
     ],
@@ -59,10 +59,10 @@
     "url": "http://160over90.com/careers/",
     "webSiteUrl": "http://www.160over90.com/",
     "technologies": [
-      "php",
+      "PHP",
       "MySQL",
       "Drupal",
-      "JQuery"
+      "jQuery"
     ],
     "locations": {
       "philadelphia": {
@@ -926,7 +926,7 @@
     "url": "http://www.aweber.jobs/",
     "webSiteUrl": "http://www.aweber.com/",
     "technologies": [
-      "php",
+      "PHP",
       "Python",
       "Perl",
       "MongoDB",
@@ -1054,10 +1054,10 @@
     "webSiteUrl": "http://www.azavea.com/",
     "technologies": [
       "Amazon Web Services",
-      "AngularJS",
+      "Angular.js",
       "Bootstrap",
       "C#",
-      "CSS",
+      "CSS3",
       "Django",
       "Dojo",
       "Go",
@@ -3201,7 +3201,7 @@
     "url": "http://www.d4creative.com/careers",
     "webSiteUrl": "http://www.d4creative.com/",
     "technologies": [
-      "php"
+      "PHP"
     ],
     "locations": {
       "philadelphia": {
@@ -3368,7 +3368,7 @@
     "url": "http://www.delphicdigital.com/about/careers/open-positions",
     "webSiteUrl": "http://www.delphicdigital.com/",
     "technologies": [
-      ".net",
+      ".NET",
       "Sitecore"
     ],
     "locations": {
@@ -3481,7 +3481,7 @@
     "webSiteUrl": "https://drakontas.com/",
     "technologies": [
       "Python",
-      "Postgres",
+      "PostgreSQL",
       "Linux (CentOS/RedHat)",
       "Bash scripting",
       "AWS",
@@ -3490,7 +3490,7 @@
       "Puppet",
       "Chef",
       "Ansible",
-      "JavaScript",
+      "Javascript",
       "Node.js"
     ],
     "locations": {
@@ -6244,7 +6244,7 @@
       "Python",
       "Scala",
       "C",
-      "AngularJS",
+      "Angular.js",
       "CakePHP",
       "Laravel",
       "Spray",
@@ -6416,7 +6416,7 @@
       "C/C++",
       "HTML5",
       "CSS3",
-      "Angular.JS"
+      "Angular.js"
     ],
     "locations": {
       "philadelphia": {
@@ -7941,13 +7941,13 @@
       "DNS",
       "VoIP",
       "SonicWall FireWall",
-      "NodeJS",
+      "Node.js",
       "PHP",
       "Git",
       "New Relic",
       "Pingdom",
       "HTML",
-      "CSS",
+      "CSS3",
       "Javascript",
       "Wordpress",
       "Drupal",
@@ -7957,9 +7957,9 @@
       "Adobe Photoshop",
       "Express",
       "Sails.js",
-      "AngularJS",
+      "Angular.js",
       "MongoDB",
-      "PostreSQL",
+      "PostgreSQL",
       "Redis",
       "Gulp",
       "Grunt"
@@ -9706,24 +9706,24 @@
     "url": "https://rjmetrics.com/jobs/",
     "webSiteUrl": "https://rjmetrics.com/",
     "technologies": [
-      "angularjs",
+      "Angular.js",
       "apache",
       "chef",
       "clojure",
       "coffeescript",
-      "git",
+      "Git",
       "hadoop",
-      "java",
-      "javascript",
+      "Java",
+      "Javascript",
       "jenkins",
-      "mongodb",
-      "mysql",
-      "node.js",
-      "php",
-      "python",
+      "MongoDB",
+      "MySQL",
+      "Node.js",
+      "PHP",
+      "Python",
       "r",
       "redis",
-      "ruby",
+      "Ruby",
       "sql",
       "virtualbox"
     ],
@@ -10700,7 +10700,7 @@
       "Microsoft Azure DocumentDB",
       "HTML5",
       "CSS3",
-      "JavaScript",
+      "Javascript",
       "jQuery",
       "Bootstrap",
       "Knockout"
@@ -11043,9 +11043,9 @@
     "technologies": [
       "C#",
       "ASP.NET",
-      "JavaScript",
+      "Javascript",
       "SQL",
-      "CSS",
+      "CSS3",
       "HTML",
       "PL/SQL",
       "WCF"
@@ -11302,7 +11302,7 @@
     "url": "http://ticketleap.theresumator.com/",
     "webSiteUrl": "http://ticketleap.com/",
     "technologies": [
-      "python"
+      "Python"
     ],
     "locations": {
       "philadelphia": {
@@ -11318,6 +11318,17 @@
       }
     },
     "positions": [
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "http://ticketleap.theresumator.com/",
+        "alternateName": "Developer, Backend",
+        "url": "http://ticketleap.theresumator.com/apply/G5ZW38/Senior-Software-Engineer-Systems-Architect",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-25"
+      },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
@@ -11424,7 +11435,7 @@
       "Java",
       ".NET",
       "Ruby",
-      "JavaScript"
+      "Javascript"
     ],
     "locations": {
       "conshohocken": {
@@ -12159,11 +12170,11 @@
     "url": "https://careers.stackoverflow.com/company/vertmarkets-inc#jobs",
     "webSiteUrl": "http://www.vertmarkets.com/",
     "technologies": [
-      "mongodb",
+      "MongoDB",
       "elasticsearch",
-      "angularjs",
-      "javascript",
-      "asp.net-mvc"
+      "Angular.js",
+      "Javascript",
+      "ASP.NET"
     ],
     "locations": {
       "horsham": {
@@ -12356,7 +12367,7 @@
     "url": "http://www.wilsonlegalsol.com/careers.html",
     "webSiteUrl": "http://www.wilsonlegalsol.com/",
     "technologies": [
-      ".net"
+      ".NET"
     ],
     "locations": {
       "newtown square": {
@@ -12643,8 +12654,8 @@
     "webSiteUrl": "https://www.zivtech.com/",
     "technologies": [
       "Drupal",
-      "JavaScript",
-      "Jquery",
+      "Javascript",
+      "jQuery",
       "Node.js",
       "PHP",
       "Python",

@@ -7,10 +7,10 @@
     "url": "http://160over90.com/careers/",
     "webSiteUrl": "http://www.160over90.com/",
     "technologies": [
-      "php",
+      "PHP",
       "MySQL",
       "Drupal",
-      "JQuery"
+      "jQuery"
     ],
     "locations": {
       "philadelphia": {
@@ -395,10 +395,10 @@
     "webSiteUrl": "http://www.azavea.com/",
     "technologies": [
       "Amazon Web Services",
-      "AngularJS",
+      "Angular.js",
       "Bootstrap",
       "C#",
-      "CSS",
+      "CSS3",
       "Django",
       "Dojo",
       "Go",
@@ -1800,7 +1800,7 @@
     "url": "http://www.d4creative.com/careers",
     "webSiteUrl": "http://www.d4creative.com/",
     "technologies": [
-      "php"
+      "PHP"
     ],
     "locations": {
       "philadelphia": {
@@ -1890,7 +1890,7 @@
     "url": "http://www.delphicdigital.com/about/careers/open-positions",
     "webSiteUrl": "http://www.delphicdigital.com/",
     "technologies": [
-      ".net",
+      ".NET",
       "Sitecore"
     ],
     "locations": {
@@ -3817,7 +3817,7 @@
       "C/C++",
       "HTML5",
       "CSS3",
-      "Angular.JS"
+      "Angular.js"
     ],
     "locations": {
       "philadelphia": {
@@ -4720,13 +4720,13 @@
       "DNS",
       "VoIP",
       "SonicWall FireWall",
-      "NodeJS",
+      "Node.js",
       "PHP",
       "Git",
       "New Relic",
       "Pingdom",
       "HTML",
-      "CSS",
+      "CSS3",
       "Javascript",
       "Wordpress",
       "Drupal",
@@ -4736,9 +4736,9 @@
       "Adobe Photoshop",
       "Express",
       "Sails.js",
-      "AngularJS",
+      "Angular.js",
       "MongoDB",
-      "PostreSQL",
+      "PostgreSQL",
       "Redis",
       "Gulp",
       "Grunt"
@@ -5855,24 +5855,24 @@
     "url": "https://rjmetrics.com/jobs/",
     "webSiteUrl": "https://rjmetrics.com/",
     "technologies": [
-      "angularjs",
+      "Angular.js",
       "apache",
       "chef",
       "clojure",
       "coffeescript",
-      "git",
+      "Git",
       "hadoop",
-      "java",
-      "javascript",
+      "Java",
+      "Javascript",
       "jenkins",
-      "mongodb",
-      "mysql",
-      "node.js",
-      "php",
-      "python",
+      "MongoDB",
+      "MySQL",
+      "Node.js",
+      "PHP",
+      "Python",
       "r",
       "redis",
-      "ruby",
+      "Ruby",
       "sql",
       "virtualbox"
     ],
@@ -6739,7 +6739,7 @@
     "url": "http://ticketleap.theresumator.com/",
     "webSiteUrl": "http://ticketleap.com/",
     "technologies": [
-      "python"
+      "Python"
     ],
     "locations": {
       "philadelphia": {
@@ -6755,6 +6755,17 @@
       }
     },
     "positions": [
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "http://ticketleap.theresumator.com/",
+        "alternateName": "Developer, Backend",
+        "url": "http://ticketleap.theresumator.com/apply/G5ZW38/Senior-Software-Engineer-Systems-Architect",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-25"
+      },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
@@ -7594,8 +7605,8 @@
     "webSiteUrl": "https://www.zivtech.com/",
     "technologies": [
       "Drupal",
-      "JavaScript",
-      "Jquery",
+      "Javascript",
+      "jQuery",
       "Node.js",
       "PHP",
       "Python",
